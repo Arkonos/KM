@@ -1,4 +1,88 @@
-\section*{Tumorlehre}
+\section{Tumorlehre}
+	\subsection{Grundlagen}
+		\begin{itemize}
+			\item \textbf{Tumor ("onkos") = Schwellung = Volumenzunahme}
+			\item \textbf{synonym: Neoplasma ("Neubildung"), Blastom}
+				\begin{itemize}
+					\item \textbf{Neubildung körpereigenen Gewebes mit autonomer Wachstumstendenz, die jene eines normalen Gewebes weit übersteigt}
+					\item \textbf{Wachstum ist unkontrolliert und überschießend, auf Kosten der gesunden Zellen (Nährstoffentzug!)}
+					\item \textbf{Wachstum wird auch nach Wegfall der auslösenden Ursache nicht eingestellt}
+						\begin{itemize}
+							\item \textbf{vgl.Hypertrophie/-plasie: Wachstum vom auslösenden Reiz abhängig, reversibel}
+						\end{itemize}
+				\end{itemize}
+			\item \textbf{Dignität: es gibt gutartige (benigne) und bösartige (maligne Tumore:)}
+				\begin{center}
+					\begin{tabular}{|ll|}
+						\hline
+						\textbf{benigne Tumore} & \textbf{maligne Tumore} \\
+						\hline
+						\multicolumn{2}{|c|}{\textbf{Wachstum}} \\ 
+						langsam & rasch \\ 
+						scharf begrenzt (Kapsel) & unscharf begrenzt \\ 
+						expansiv, verdrängend & infiltrativ, eindringend \\
+						komprimierend & destruierend \\
+						eher verschieblich & nicht verschieblich \\
+						\multicolumn{2}{|c|}{\textbf{Zellen}} \\
+						keine Zellatypien & Zellatypien \\
+						differenziert & undifferenziert \\
+						reif & unreif \\
+						\multicolumn{2}{|c|}{\textbf{Metastasen}} \\
+						keine Metastasen & bildet Metastasen \\
+						\multicolumn{2}{|c|}{\textbf{Verlauf}} \\
+						geringe Allgemeinstörung & starke Allgemeinstörung \\
+						wenig Rezidive & oft Rezidive \\
+						meist keine direkte Lebensgefahr & meist hohe Lebensgefahr\\
+						\hline
+					\end{tabular}
+				\end{center}
+			\item \textbf{borderline lesions (=semimaligne Tumore)}
+				\begin{itemize}
+					\item \textbf{wachsen bösartig (lokal infiltrativ und destruierend)}
+					\item \textbf{hochgradige Rezidivneigung}
+					\item \textbf{metastasierend, jedoch sehr selten und sehr spät}
+				\end{itemize}
+			\item \textbf{Präkanzerosen}
+				\begin{itemize}
+					\item \textbf{Gewebsveränderungen mit erhöhtem Risiko der malignen Entartung}
+					\item \textbf{fakultative Präkanzerose: Entartungsrisiko $<$ 20\%, Dauer $>$ 5 Jahre}
+					\item \textbf{obligate Präkanzerose: Entartungsrisiko $>$ 20\%, Dauer $<$ 5 Jahre}
+				\end{itemize}
+			\item \textbf{Metastasen}
+				\begin{itemize}
+					\item \textbf{Absiedlungen (Tochtergeschwülste) vom Primärtumor(Muttergeschwulst) über}
+						\begin{itemize}
+							\item \textbf{den Lymphweg (lymphogen)}
+								\begin{itemize}
+									\item \textbf{regionale Lymphknoten - weitere Lymphknotengruppen - über den Ductus thoracicus in das Blutgefäßsystem}
+								\end{itemize}
+							\item \textbf{den Blutweg (hämatogen)}
+								\begin{itemize}
+									\item \textbf{arterieller Typ}
+									\item \textbf{Holvenen Typ}
+									\item \textbf{Pfortadertyp}
+									\item \textbf{vertebraler Typ}
+								\end{itemize}
+							\item \textbf{innerhalb der Körperhölen (Absiedelung an Pleura, Peritoneum}
+							\item \textbf{kanalikulär}
+							\item Knochenmetastasen (indifferent, osteoblastisch, osteoklastisch)
+						\end{itemize}
+				\end{itemize}
+			\item \textbf{Tumorrezidiv}
+				\begin{itemize}
+					\item \textbf{entsteht aus liegen gebliebenen Zellen eines unvollständig entfernten Primärtumors}
+				\end{itemize}
+			\item \textbf{5-Jahres-Heilungsrate / 5-Jahres-Überlebensrate}
+				\begin{itemize}
+					\item \textbf{fünf Jahre nach der Behandlung eines malignen Tumors weder ein Rezidiv noch Metastasen nachweisbar (= Behandlungserfolg) / überlebt}
+				\end{itemize}
+			\item \textbf{Tumorbeurteilung}
+				\begin{itemize}
+					\item \textbf{typing}
+					\item \textbf{staging}
+					\item \textbf{grading}
+				\end{itemize}
+		\end{itemize}
 	\subsection*{Ätiologie maligner Neoplasmen}
 		\begin{itemize}
 			\item endogene Ursachen
