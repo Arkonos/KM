@@ -1,0 +1,171 @@
+ \section*{Tumor-Therapie}
+	\begin{itemize}
+		\item \textbf{3 Säulen der Schulmedizin}
+			\begin{itemize}
+				\item \textbf{Operation}
+				\item \textbf{Radiotherapie:}
+					\begin{itemize}
+						\item \textbf{Zelltod duch ionisierende Stahlung, präoperative und/oder postoperative Bestrahlung}
+						\item auch pre-OP, verkleinert den Tumor, zerstört besonders aktive Zellen, verringert OP-bedingtes Streuungsrisiko
+					\end{itemize}					
+				\item \textbf{Chemotherapie mit Zytostatika}
+			\end{itemize}
+		\item \textbf{Nebenwirkung}
+			\begin{itemize}
+				\item auch gesunde Zellen in Teilung werden vorübergehend zerstört. v.a. 
+				\item Haut- und Schleimhautzellen, Haare $\rightarrow$ Haarausfall
+				\item Blutzellen:
+					\begin{itemize}
+						\item[$\rightarrow$] Erythrozytenmangel $\rightarrow$ Anämie (Schwäche, depressive Verstimmung, …)
+						\item[$\rightarrow$] Leukozytenmangel $\rightarrow$ Schwächung d. Immunsystems $\rightarrow$ mangelnde Abwehr, Infektanfälligkeit
+					\end{itemize}
+				\item Strahlentherapie bzw. Chemotherapie ist je nach Dosis kanzerogen $\rightarrow$ Risisko Zweittumor?
+			\end{itemize}
+		\item \textbf{neuere Methoden}
+			\begin{itemize}
+				\item \textbf{monoklonale Antikörper}\\
+					weist d. Tumor Antigenkörper auf, kann man Antikörper geben, die Tumorzellen zerstören sollen
+				\item \textbf{dendritische Zelltherapie}
+				\item \textbf{Hyperthermie,$\dots$}
+			\end{itemize}
+	\end{itemize}
+\pagebreak
+	\subsection*{einzelne Tumorbeispiele}
+		\begin{itemize}
+			\item \textbf{Malignes Melanom}\\
+				Abgrenzung zum benignen Naevus (Muttermal)\\
+				ABCD(E)-Regel:
+				\begin{itemize}
+					\item Asymmetrie
+					\item Begrenzung
+					\item Colour
+					\item Durchmesser
+					\item (Erhaben)
+				\end{itemize}
+			\item \textbf{Basaliom}\\
+				„semimaligne“ = borderline, lokal malignes Wachstum aber keine Metastasierung!
+			\item \textbf{Leukämien}\\
+				Einteilung:
+				\begin{itemize}					
+					\item akute Leukämie
+						\begin{itemize}
+							\item 90\% Leukämien im Kindesalter
+							\item myeloische ($\rightarrow$ akute meloische Leukämie)
+							\item lymphatische ($\rightarrow$ akute lymphatische Leukämie
+						\end{itemize}
+					\item chronische Leukämie
+						\begin{itemize}
+							\item myeloische ($\rightarrow$ chronische myeloische Leukämie)
+							\item lymphatische ($\rightarrow$ chronische lymphatische Leukämie)
+						\end{itemize}
+					\item[$\rightarrow$] Mangel an Erythrozyten = Anämie
+					\item[$\rightarrow$] Mangel an Trombozyten $\rightarrow$ Blutgerinnungsproblem, Spontanblutungen
+					\item[$\rightarrow$] Mangel an Leukozyten $\rightarrow$ Abwehrschwäche, Infektanfälligkeit
+				\end{itemize}
+			\item \textbf{maligne Lymphome}
+				\begin{itemize}
+					\item M(orbus)-Hodgkin-Lymphom
+						\begin{itemize}
+							\item geht von B-Lympozyten aus
+							\item Symptome
+								\begin{itemize}
+									\item Nachtschweiß, Gewichtsverlust, evtl. Fieber
+									\item erhöhte BSG, Blutsenkungsgeschwindigkeit (später mehr)
+									\item manchmal Schmerzen/Juckreiz nach Alkoholkonsum
+								\end{itemize}
+							\item Staging:
+								\begin{itemize}
+									\item Eine, zwei, mehrere Knoten befallen
+									\item Behandlung: Strahlen \& Chemo
+								\end{itemize}
+							\item Prognose:
+								\begin{itemize}
+									\item bei Früherkennung 70\% Überlebensrate
+								\end{itemize}
+						\end{itemize}
+					\item Non-Hodgkin-Lymphom
+				\end{itemize}		
+			\item \textbf{Hodencarcinom}
+				\begin{itemize}
+					\item Altersgipfel: 20-30
+					\item überwiegend v. Keimzellen ausgehend $\rightarrow$ Keimzellentumore (häufigster maligner Tumor bei jungen Männern)
+					\item Ätiologie: risikoerhöhend: Hoden zum Zeitpunkt der Geburt nicht im Skrotum (noch in Bauchhöhle)
+				\end{itemize}
+			\item \textbf{Prostatacarcinom}
+				\begin{itemize}
+					\item überwiegend ältere ältere Männer
+					\item durch Abfall v. Testosteron relativer Anstieg von Östrogen $\rightarrow$ Wachstumsstimulus für Prostata
+					\item Therapie:
+						\begin{itemize}
+							\item OP (möglichst Nerven-schonend! aber: höheres Risiko, nicht alle Carcinom-Anteile zu entfernen!)
+							\item Hormontherapie: anti-androgen (Nebenwirkung: „Verweiblichung“ $\rightarrow$ z.B. Brustdrüsenwachstum)
+						\end{itemize}
+				\end{itemize}
+			\pagebreak
+			\item \textbf{Mammacarcinom}
+				\begin{itemize}
+					\item Insidenz nimmt stetig zu, zzT. jede 8. Frau
+					\item Lymphknoten in der Achsel wird kaum noch durchgeführt
+					\item Lokalisation meist obere Hälfte
+					\item Risikofaktoren
+						\begin{itemize}
+							\item genetische Veranlagung
+							\item Östrogene
+								\begin{itemize}
+									\item frühe Menarche (erste Regelblutung)
+									\item späte Monopause
+									\item Östrogentherapie i.d. Menopause
+									\item Keine Schwangerschaften (Schwangerschaft+Stillzeit unterbricht Zyklus)
+									\item Adipositas
+								\end{itemize}
+						\end{itemize}
+					\item mit dem Alter deutlich Ansteigend nach 50
+					\item gute Prognose
+					\item Behandlung
+						\begin{itemize}
+							\item Operation
+							\item kosmetische Restauration
+						\end{itemize}
+				\end{itemize}
+			\item \textbf{Cervixcarcinom}
+				\begin{itemize}
+					\item 
+				\end{itemize}
+			\item \textbf{Coloncarcinom}
+				\begin{itemize}
+					\item Insidenz nimmt stetig zu, vermutlich auf Grund von Lebensweise
+					\item möglicherweise Ernärung und Genetik Ursachen\\
+						(cancerogene Lebensmittel bleiben länger im Colon durch balaststoffarme Ernärung)
+					\item 90\% entwickeln sich aus malignen Polypen\\
+						(Vorsorgliche Spiegelung im höheren Alter, Entfernung und Analyse der Polypen)
+					\item Therapie
+						\begin{itemize}
+							\item Chemo Therapie mit Operation
+						\end{itemize}
+					\item Metastasen $\rightarrow$ Leber $\rightarrow$ Lunge 
+					\item 90\% Überlebensrate bei rechtzeitiger Behandlung
+				\end{itemize}
+				
+		\end{itemize}
+		\subsection*{Einschub: Erethrozyten}
+		Blut
+			\begin{itemize}
+				\item Flüssigkeit = Plasma (Serum: ohne Gerinnung)
+				\item Zellen
+					\begin{itemize}
+						\item Erythrozyten (Hämoglobin, O2-Transport, ABO-System, Rh-System
+						\item Thrombozyten: Gerinnselbildung (Thrombus) zur Gefäßwandabdichtung
+						\item Leukozyten
+							\begin{itemize}
+								\item Granulozyten
+								\item Monozyten	
+								\item Lymphozyten
+									\begin{itemize}
+										\item T(hymus)-Lymphozyten
+										\item B(one marrow)-Lymphozyten
+										\item NK-Zellen
+									\end{itemize}
+							\end{itemize}
+								
+					\end{itemize}
+			\end{itemize}

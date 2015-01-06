@@ -1,0 +1,123 @@
+\section*{Tumorlehre}
+	\subsection*{Ätiologie maligner Neoplasmen}
+		\begin{itemize}
+			\item endogene Ursachen
+				\begin{itemize}
+					\item \textbf{genetische Faktoren}
+						\begin{itemize}
+							\item ~5\% 
+							\item Bsp1.: familiäre Dickdarm-Adenomatose = fam. Polyposis
+								\begin{itemize}
+									\item Polypen: gutartige Tumore, aus denen mit d. Zeit bösartige 
+										entstehen können, treten im Alter einzeln auf,
+										werden häufig Kontrolliert und ggf. entfernt
+									\item bei Polyposis: hunderte mit hohem Entartungsrisiko, in kurzer Zeit, auch in jungen Jahren! Engmaschige Kontrollen, ggf. operative Entfernung der betroffenen Dickdarm-Teile (muss zu viel entfernt werden, kann nicht mehr ausreichend eingedickt werden $\rightarrow$ künstlicher Ausgang = Stoma) 
+									\item Fehlen eines Tumor-Suppressor Gens (erstes entdecktes Tumor-Suppressor-Gen: p53Gen)
+								\end{itemize}
+							\item Bsp2.: Gendefekt-verursachtes Mamma-Carzinom (sehr selten): sehr hohes Risiko, Angebot der präventiven Brust-Amputation
+						\end{itemize}
+					\item  \textbf{hormonelle Faktoren} \\
+						zB.: Prostata Carcinom (Details folgen)
+						
+					\item	\textbf{chronische Gewebereizung} \\
+						Chronisch gereiztes Gewebe hat höheres Karzinom Risiko\\
+						zB.: chronische Entzündung, schlecht sitzende Implantate 
+				\end{itemize}
+			\item exogene Ursachen
+				\begin{itemize}
+					\item \textbf{chemische Faktoren}
+						\begin{itemize}
+							\item häufigste Ursache
+							\item bei geringer Dosis kann es durchaus lange dauern bis Auftreten, aber: Dosisakkumulation!
+							\item Beispiele für chem. Verbindungen:
+								\begin{itemize}
+									\item Benzidin, Anilin $\rightarrow$ Harnblasencarcinom
+									\item Benzpyren, polyzyklische Wasserstoffe $\rightarrow$ Hautcarcinom
+									\item versch. Substanzen $\rightarrow$ Lebercarcinom
+										(zB Schimmelpilz im Getreide $\rightarrow$ Aflatoxin) 
+									\item Arsen/Chrom Verbindungen
+									\item Asbest, Nickel \& Holzstaub $\rightarrow$ Lungen und Nasennebenhöhlen
+									\item Asbest $\rightarrow$ Pleuramesotheliom
+									\item Nitrosamine, in gepökeltem/verbranntem Fleisch $\rightarrow$ Magen\\
+										(daher in Tirol \& Vorarlberg höher wegen Speck, Japan durch geräucherten gepökeltem Fisch)
+									\item Tabak $\rightarrow$ Mundhöhle, Lunge, Kehlkopf, Speiseröhre (meist Alkohol+Nikotin), Harnblase, Lippencarcinom (betrifft auch Zigarrenraucher - ohne Inhalation)
+									\item Hormone:\\
+										' Androgene: doping – Leber\\
+										' Pille - geringe Erhöhung gutartiger Lebertumore, aber deutliche Senkung d. Ovarialencarzinome
+								\end{itemize}
+						\end{itemize}
+					\pagebreak
+					\item \textbf{physikalische Faktoren}
+						\begin{itemize}
+							\item Radioaktive Strahlung
+								\begin{itemize}
+									\item[$\rightarrow$] Plattenepidelkarz. an Händen durch ungeschützten, direkten Kontakt (z.B. erste Radiologie-Forscher, Hiroshima, Nagasaki, Tschernobyl: DNA-Schädigung $\rightarrow$ Leukämien, Schildrüsencarcinom)
+								\end{itemize}
+							\item UV-Strahlung: DNA-Schädigung
+								\begin{itemize}
+									\item[$\rightarrow$] Plattenepidelcarzinom, Melanom (maligner Hauttumor), Basaliom (Haut "merkt" sich Schädigung, muss nach UV-Einstrahlung Reparaturmaßnahmen durchführen. $\rightarrow$ bei zu viel UV-Einwirkung überfordert)
+									\item Melanom: genetische Veranlagung, eventuell Viren u.a. unbekannte Einflüsse. Auch bei jungen Erwachsenen möglich
+								\end{itemize}		  
+						\end{itemize}
+					
+					\item \textbf{infektiöse Faktoren}\\
+						 onkogene Viren (selten Alleinauslösende Faktoren):
+						\begin{itemize}
+							\item Humanes Papillomavirus: Warzen an Haut u. Genitalien, deutlich erhöhtes 
+								\begin{itemize}
+									\item Cervixkarzinomrisiko (Impfung gegen die häufigsten Arten, kostspielig!)
+									\item STD! durch oralen Verkehr: Larynxkarzinomrisiko $\dagger$
+								\end{itemize}
+							\item Herpes-Simplex-Virus (HSV) \textbf{Typ2}: genitaler Herpes $\rightarrow$ Cervixkarzinomrisiko $\dagger$
+							\item Epstein-Barr-Virus: Preiffer'sches Drüsenfieber = Mononukleose
+								\begin{itemize}
+									\item engl. umgs. kissing disease
+									\item (sichtbare) Schwellung der Hals-Lymphknoten
+									\item meist komplikationslose Erkrankung i.d. Pubertät, aber: erhöhtes Risiko für maligne Lymphome
+								\end{itemize}
+						\end{itemize}
+					\item \textbf{Ernährung}
+						\begin{itemize}
+							\item Nitrosamine, Ballaststoffe, tierische Fette? ….
+						\end{itemize}
+				\end{itemize}
+		\end{itemize}
+	\subsection*{Onkogenese (Karziogenese)}
+		\begin{itemize}
+			\item \textbf{immunologische Reaktion d. Wirtsorganismus}
+				\begin{itemize}
+					\item Immun-Überwachungs-Theorie: fehlende immunologische Reaktion d. Wirtsorganismus auf entartete Tumorzellen
+				\end{itemize}
+			\item \textbf{Tumorwachstum: Zellkommunikationsstörung}
+				\begin{itemize}
+					\item Zellkommunikationsstörung $\rightarrow$ Tumorwachstum
+				\end{itemize}
+			\item \textbf{Tumor-Angiogenese-Faktor: ausreichende Blutversorgung ist für das Tumorwachstum essentiell}
+			\item \textbf{Invasion und Metastatsierung: verminderter interzellurärer Zusammenhalt}\\
+				zB. Tarnung als Thrombus
+		\end{itemize}
+	\newpage
+	\subsection*{Diagnostik: Tumormarker}
+		\begin{itemize}
+			\item \textbf{im Blut messbare Substanzen, die mit malignem
+				Tumorgewebe korrelieren \emph{können}}
+			\item aber: \textbf{nicht tumorspezifisch, nicht organspezifisch}
+			\item \textbf{Nachweis teilweise bis zu Grenzwert normal}
+			\item \textbf{daher v.a. für postoperative Verlaufskontrolle}\\
+				Vergleich mit pre-OP Wert
+			\item \textbf{Beispiele:}
+				\begin{itemize}
+					\item \textbf{AFP} Alpha Feto Protein, \textbf{CEA} Carcino Enbryonales Antigen:
+						\begin{itemize}
+							\item Bei Embryos vorhanden, gehen m.d.Z. verloren, bilden sich bei Erkrankung neu
+							\item Bsp: Dickdarmcarzinom
+						\end{itemize}
+					\item \textbf{HCG} Humanes Choriongonadotropin (von Tumorzellen erzeugte Hormone)
+						\begin{itemize}
+							\item wird auch an Beginn d. Schwangerschaft gebildet (Schwangerschaftstest!)
+							\item gut verwertbar beim Mann $\rightarrow$ Hodentumor
+						\end{itemize}
+					\item \textbf{Calcitonin}: Kann mit Schilddrüsenkarzinom korrelieren
+					\item Enzyme: \textbf{PSA} Enzyme: Prostata Spezifisches Antigen, \textbf{PAP} Prostatic Acid Phosphatase (Indikator erst ab physiologischem Schwellwert)
+				\end{itemize}
+		\end{itemize}
