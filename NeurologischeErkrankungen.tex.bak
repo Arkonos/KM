@@ -58,8 +58,8 @@
 				\item \textbf{multible Sklerose}
 			\end{itemize}
 	\subsection*{Multible Sklerose}
-		\subsubsection{Enzephalitis disseminata}
-		\subsubsection{chronisch-entzündliche ZNS-Entmarkungs-KH}
+		\subsubsection*{Enzephalitis disseminata}
+		\subsubsection*{chronisch-entzündliche ZNS-Entmarkungs-KH}
 			\begin{itemize}
 				\item \textbf{Zerfall der isolierenden Markscheiden im Rahmen einer Entzündung, herdförmiger Myelinverlust an verschiedenen Stellen des Gehirns und des Rückenmarks}
 				\item \textbf{Narbenbildung nach Entzündungsrückgang}
@@ -91,4 +91,4 @@
 				\item \textbf{Immunsuppression (Interferone, Azathioprin, $\dots$)}
 				\item \textbf{symptomatische Th bei Spastik, Blasenstörungen, $\dots$}
 			\end{itemize}
-		\subsubsection*{•}
+	\subsection*{Morbus Parkinson}
