@@ -199,14 +199,11 @@
 								\item \textbf{Niereninsuffizienz}
 							\end{itemize}
 						\item \textbf{vermehrten Harnsäureanfall durch erhöhten Zellzerfall oder Blockade der Zellneubildung}
+							\begin{itemize}
+								\item \textbf{maligne Tumore und deren Therapien}
+							\end{itemize}
+						\item \textbf{Nebenwirkung von Medikamenten}
 					\end{itemize}
-			\end{itemize}
-			\begin{itemize}
-				
-			\end{itemize}
-		\item \textbf{maligne Tumore und deren Therapien}
-			\begin{itemize}
-				\item \textbf{Nebenwirkung von Medikamenten}
 			\end{itemize}
 	\end{itemize}
 \subsection{Mukoviszidose = zystische Fibrose}
@@ -214,14 +211,14 @@
 		\item \textbf{autosomal rezessiv vererbte Stoffwechselstörung}
 			\begin{itemize}
 				\item \textbf{Defekt am Chromosom 7}
-				\item \textbf{Störung des Chlorid-Transportes in exokrinen Drüsenzellen erhöhte Viskosität des Sekretes    Sekretrückstau  Keimbesiedelung   Infektion   Organschädigungen}
+				\item \textbf{Störung des Chlorid-Transportes in exokrinen Drüsenzellen $\rightarrow$ erhöhte Viskosität des Sekretes $\rightarrow$ Sekretrückstau $\rightarrow$ Keimbesiedelung $\rightarrow$ Infektion $\rightarrow$ Organschädigungen}
 			\end{itemize}
 		\item \textbf{Symptome}
 			\begin{itemize}
-				\item \textbf{Lungenchronische Bronchitiden, Pneumonien}
-				\item \textbf{PankreasPankreasinsuffizienz (Untergewicht, Kleinwuchs, Fettstühle)}
-				\item \textbf{Schweißdrüsenstark salziger Schweiß}
-				\item \textbf{Speicheldrüsen, Gallenwege, Dünndarm, ....}
+				\item \textbf{Lungen: chronische Bronchitiden, Pneumonien}
+				\item \textbf{Pankreas: Pankreasinsuffizienz (Untergewicht, Kleinwuchs, Fettstühle)}
+				\item \textbf{Schweißdrüsen: stark salziger Schweiß}
+				\item \textbf{Speicheldrüsen, Gallenwege, Dünndarm, $\dots$}
 			\end{itemize}
 	\end{itemize}
 \subsection{erworbene Stoffwechselerkrankungen}
@@ -234,12 +231,16 @@
 		\item \textbf{Unterernährung}
 			\begin{itemize}
 				\item \textbf{langfristig zu geringe Kalorienzufuhr}
+					\begin{itemize}
+						\item \textbf{Marasmus}
+						\item \textbf{Kwashiorkor}
+						\item \textbf{Kachexie}
+						\item \textbf{Anorexie}
+					\end{itemize}
 			\end{itemize}
-		\item \textbf{Marasmus}
-		\item \textbf{Kwashiorkor}
-		\item \textbf{Kachexie}
-		\item \textbf{Anorexie}
 		\item \textbf{Vitaminmangel}
-		\item \textbf{Rachitis}
-		\item \textbf{Skorbut}
+			\begin{itemize}
+				\item \textbf{Rachitis}
+				\item \textbf{Skorbut}
+			\end{itemize}
 	\end{itemize}
