@@ -23,4 +23,5 @@
 	\include{PsychatrischeErkrankungen}
 	\include{Stoffwechsel-Erkrankungen}
 	\include{Orthopaedie}
+	\include{Pharma-analgetika}
 \end{document}
