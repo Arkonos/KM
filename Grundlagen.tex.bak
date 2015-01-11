@@ -2,751 +2,702 @@
 
 \subsection{Lehrinhalte "klinische Medizin"}
 	\begin{itemize}
-		\item allgemeine Grundlagen der Krankheitslehre
-		\item häufige Erkrankungen im Detail
-		\item Diagnostik
-		\item Therapie
+		\item \textbf{allgemeine Grundlagen der Krankheitslehre}
+		\item \textbf{häufige Erkrankungen im Detail}
+		\item \textbf{Diagnostik}
+		\item \textbf{Therapie}
 	\end{itemize}
 
 \subsection{allgemeine Pathologie}
 	\begin{itemize}
-		\item Definition
+		\item \textbf{Definition}
 			\begin{itemize}
-				\item Pathos, Logos
-				\item Lehre von den Krankheiten (ihren Ursachen und den  Veränderungen, die sie im Organismus hervorrufen)
+				\item \textbf{Pathos, Logos}
+				\item \textbf{Lehre von den Krankheiten (ihren Ursachen und den  Veränderungen, die sie im Organismus hervorrufen)}
 			\end{itemize}
-		\item Ätiologie
+		\item \textbf{Ätiologie}
 			\begin{itemize}
-				\item Lehre von den Krankheitsursachen
+				\item \textbf{Lehre von den Krankheitsursachen}
 			\end{itemize}
-		\item Pathogenese:
+		\item \textbf{Pathogenese}
 			\begin{itemize}
-				\item Lehre von der Entstehung einer Krankheit
+				\item \textbf{Lehre von der Entstehung einer Krankheit}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{Epidemiologie}
 	\begin{itemize}
-		\item ursprüngliche Bedeutung: "Seuchenkunde"
-		\item WHO Definition
+		\item \textbf{ursprüngliche Bedeutung: "Seuchenkunde"}
+		\item \textbf{WHO Definition}
 			\begin{itemize}
-				\item die Epidemiologie befasst sich mit der Untersuchung der Verteilung von Krankheiten, physiologischen Variablen und sozialen Krankheitsfolgen in menschlichen Bevölkerungsgruppen sowie mit Faktoren, die diese Verteilung beeinflussen
-				\item Begriffsdefinitionen:
+				\item \textbf{die Epidemiologie befasst sich mit der Untersuchung der Verteilung von Krankheiten, physiologischen Variablen und sozialen Krankheitsfolgen in menschlichen Bevölkerungsgruppen sowie mit Faktoren, die diese Verteilung beeinflussen}
+				\item \textbf{Begriffsdefinitionen}
 					\begin{itemize}
-						\item Gesundheit, Krankheit
-						\item Morbidität, Mortalität, Letalität
-						\item Inzidenz, Prävalenz
+						\item \textbf{Gesundheit, Krankheit}
+						\item \textbf{Morbidität, Mortalität, Letalität}
+						\item \textbf{Inzidenz, Prävalenz}
 					\end{itemize}
 		\end{itemize}
 	\end{itemize}
 
 \subsection{Epidemiologie}
 	\begin{itemize}
-		\item Gesundheit:
+		\item \textbf{Gesundheit}
 			\begin{itemize}
-				\item Zustand völligen körperlichen, seelischen und sozialen Wohlbefindens
+				\item \textbf{Zustand völligen körperlichen, seelischen und sozialen Wohlbefindens}
 			\end{itemize}
-		\item Krankheit:
+		\item \textbf{Krankheit}
 			\begin{itemize}
-				\item Störung in diesem körperlich-seelisch-geistig-sozialen Gleichgewicht
+				\item \textbf{Störung in diesem körperlich-seelisch-geistig-sozialen Gleichgewicht}
 			\end{itemize}
-		\item Morbidität
+		\item \textbf{Morbidität}
 			\begin{itemize}
-				\item Häufigkeit einer bestimmten Krankheit in einer Bevölkerungsgruppe
-				\item Verhältnis der Zahl der Erkrankungen zur Zahl der Gesamtbevölkerung in einem bestimmten Zeitraum
+				\item \textbf{Häufigkeit einer bestimmten Krankheit in einer Bevölkerungsgruppe}
+				\item \textbf{Verhältnis der Zahl der Erkrankungen zur Zahl der Gesamtbevölkerung in einem bestimmten Zeitraum}
 			\end{itemize}
-	\end{itemize}
-
-\subsection{Epidemiologie}
-	\begin{itemize}
-		\item Mortalität ("Sterblichkeit")
+		\item \textbf{Mortalität ("Sterblichkeit")}
 			\begin{itemize}
-				\item Häufigkeit einer bestimmten Kh als Todesursache in einer Bevölkerungsgruppe
-				\item Verhältnis der Zahl der Todesfälle an bestimmter Erkrankung zur Zahl der Gesamtbevölkerung in einem bestimmten Zeitraum, i.d.R. 1 Jahr, pro 100000 Einwohner
-				\item 
+				\item \textbf{Häufigkeit einer bestimmten Kh als Todesursache in einer Bevölkerungsgruppe}
+				\item \textbf{Verhältnis der Zahl der Todesfälle an bestimmter Erkrankung zur Zahl der Gesamtbevölkerung in einem bestimmten Zeitraum, i.d.R. 1 Jahr, pro 100000 Einwohner}
+				\item \textbf{}
 			\end{itemize}
-		\item Letalität ("Tödlichkeit")
+		\item \textbf{Letalität ("Tödlichkeit")}
 			\begin{itemize}
-				\item Zahl der Todesfälle bezogen auf die Zahl der Erkrankten
-				\item Verhältnis der Zahl der Todesfälle zur Zahl der an einer bestimmten Krankheit Erkrankten ("Mortalität in \%")
+				\item \textbf{Zahl der Todesfälle bezogen auf die Zahl der Erkrankten}
+				\item \textbf{Verhältnis der Zahl der Todesfälle zur Zahl der an einer bestimmten Krankheit Erkrankten ("Mortalität in \%")}
 			\end{itemize}
-	\end{itemize}
-
-%\subsection{Epidemiologie}
-	\begin{itemize}
-		\item Inzidenz (= Erkrankungshäufigkeit)
+		\item \textbf{Inzidenz (= Erkrankungshäufigkeit)}
 			\begin{itemize}
-				\item Zahl von Neuerkrankungen an einer bestimmten KH innerhalb eines bestimmten Zeitraumes
-				\item Anzahl der Personen, die im Verlauf eines bestimmten Zeitraumes (i.d.R. 1 Jahr) an einer bestimmten Krankheit erstmals erkranken
+				\item \textbf{Zahl von Neuerkrankungen an einer bestimmten KH innerhalb eines bestimmten Zeitraumes}
+				\item \textbf{Anzahl der Personen, die im Verlauf eines bestimmten Zeitraumes (i.d.R. 1 Jahr) an einer bestimmten Krankheit erstmals erkranken}
 			\end{itemize}
-		\item Prävalenz
+		\item \textbf{Prävalenz}
 			\begin{itemize}
-				\item Zahl der zu einem bestimmten Zeitpunkt an einer bestimmten KH leidenden Personen, bezogen auf die Gesamtbevölkerung
+				\item \textbf{Zahl der zu einem bestimmten Zeitpunkt an einer bestimmten KH leidenden Personen, bezogen auf die Gesamtbevölkerung}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{Methoden der pathologischen Diagnostik}
 	\begin{itemize}
-		\item intravitale Diagnostik
+		\item \textbf{intravitale Diagnostik}
 			\begin{itemize}
-				\item zytologische Untersuchungsmethoden
-				\item histologische Untersuchungsmethoden
+				\item \textbf{zytologische Untersuchungsmethoden}
+				\item \textbf{histologische Untersuchungsmethoden}
 			\end{itemize}
-		\item postmortale Diagnostik
+		\item \textbf{postmortale Diagnostik}
 			\begin{itemize}
-				\item sanitätspolizeiliche Obduktion
-				\item gerichtsmedizinische Obduktion
-				\item klinische Obduktion
-			\end{itemize}
-	\end{itemize}
-
-\subsection{intravitale Diagnostik}
-	\begin{itemize}
-		\item zytologische Untersuchungsmethoden
-			\begin{itemize}
-				\item Analyse von Einzelzellen
-				\item Gewinnung der Zellen:
-					\begin{itemize}
-						\item von Schleimhautoberflächen, Sekreten, Spülflüssigkeiten
-						\item durch Punktion von Flüssigkeiten
-						\item durch Feinnadelpunktion von Organen
-					\end{itemize}
-				\item Zweck / häufige Fragestellungen:
-					\begin{itemize}
-						\item infektiöse Erkrankungen (Erregernachweis) und deren Folgen
-						\item Entzündungsdiagnostik
-						\item Tumorzellnachweis, etc.
-					\end{itemize}
+				\item \textbf{sanitätspolizeiliche Obduktion}
+				\item \textbf{gerichtsmedizinische Obduktion}
+				\item \textbf{klinische Obduktion}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{intravitale Diagnostik}
 	\begin{itemize}
-		\item histologische Untersuchungsmethoden
+		\item \textbf{zytologische Untersuchungsmethoden}
 			\begin{itemize}
-				\item Analyse von Gewebeschnitten von chirurgisch oder bioptisch gewonnenen Gewebestücken
-				\item Gefrierschnellschnitt, Paraffinschnitt
-				\item Analysetechniken:
+				\item \textbf{Analyse von Einzelzellen}
+				\item \textbf{Gewinnung der Zellen}
 					\begin{itemize}
-						\item Lichtmikroskopie:
+						\item \textbf{von Schleimhautoberflächen, Sekreten, Spülflüssigkeiten}
+						\item \textbf{durch Punktion von Flüssigkeiten}
+						\item \textbf{durch Feinnadelpunktion von Organen}
+					\end{itemize}
+				\item \textbf{Zweck / häufige Fragestellungen}
+					\begin{itemize}
+						\item \textbf{infektiöse Erkrankungen (Erregernachweis) und deren Folgen}
+						\item \textbf{Entzündungsdiagnostik}
+						\item \textbf{Tumorzellnachweis, etc.}
+					\end{itemize}
+			\end{itemize}
+		\item \textbf{histologische Untersuchungsmethoden}
+			\begin{itemize}
+				\item \textbf{Analyse von Gewebeschnitten von chirurgisch oder bioptisch gewonnenen Gewebestücken}
+				\item \textbf{Gefrierschnellschnitt, Paraffinschnitt}
+				\item \textbf{Analysetechniken}
+					\begin{itemize}
+						\item \textbf{Lichtmikroskopi}
 							\begin{itemize}
-								\item Anfertigung von Paraffinschnitten oder Gefrierschnitten
+								\item \textbf{Anfertigung von Paraffinschnitten oder Gefrierschnitten}
 							\end{itemize}
-						\item Immunfluoreszenz
-						\item Elektronenmikroskopie
+						\item \textbf{Immunfluoreszenz}
+						\item \textbf{Elektronenmikroskopie}
 					\end{itemize}
-		\item Zweck / häufige Fragestellungen:
+		\item \textbf{Zweck / häufige Fragestellungen}
 			\begin{itemize}
-				\item Zellbeurteilung im Gewebeverband, Tumordiagnostik, Kontrolle des chirurgischen Eingriffs (Resektionsränder), etc.
+				\item \textbf{Zellbeurteilung im Gewebeverband, Tumordiagnostik, Kontrolle des chirurgischen Eingriffs (Resektionsränder), etc.}
 			\end{itemize}
 		\end{itemize}
 	\end{itemize}
-
-\subsection{No Title}
-%\includegraphics{klin.med.-grundlagen-img0000.png}
+	
+\begin{center}
+	\includegraphics[scale=0.5]{{klin.med.-grundlagen-img0000}.png}
+\end{center}
 
 \subsection{intravitale Diagnostik}
 	\begin{itemize}
-		\item bakteriologische und serologische Diagnostik
+		\item \textbf{bakteriologische und serologische Diagnostik}
 			\begin{itemize}
-				\item mikroskopischer Nachweis von Krankheitserregern
+				\item \textbf{mikroskopischer Nachweis von Krankheitserregern}
 					\begin{itemize}
-						\item spezielle Färbemethoden zur Darstellung der Mikroorganismen
+						\item \textbf{spezielle Färbemethoden zur Darstellung der Mikroorganismen}
 							\begin{itemize}
-								\item Lichtmikroskopie
-								\item Elektronenmikroskopie
+								\item \textbf{Lichtmikroskopie}
+								\item \textbf{Elektronenmikroskopie}
 							\end{itemize}
 					\end{itemize}
-				\item kultureller Nachweis von Krankheitserregern
+				\item \textbf{kultureller Nachweis von Krankheitserregern}
 					\begin{itemize}
-						\item Bakterienkultur auf flüssigen oder festen Nährmedien
+						\item \textbf{Bakterienkultur auf flüssigen oder festen Nährmedien}
 					\end{itemize}
-				\item serologischer Nachweis von Krankheitserregern
+				\item \textbf{serologischer Nachweis von Krankheitserregern}
 					\begin{itemize}
-						\item Antigen-Antikörper-Reaktion
-						\item Agglutinationsreaktionen
+						\item \textbf{Antigen-Antikörper-Reaktion}
+						\item \textbf{Agglutinationsreaktionen}
 							\begin{itemize}
-								\item Antigen-Suchtest
-								\item Antikörper-Suchtest
+								\item \textbf{Antigen-Suchtest}
+								\item \textbf{Antikörper-Suchtest}
 							\end{itemize}
 					\end{itemize}
 			\end{itemize}
-	\end{itemize}
-
-\subsection{intravitale Diagnostik}
-	\begin{itemize}
-		\item Spezialmethoden
+		\item \textbf{Spezialmethoden}
 			\begin{itemize}
-				\item Elektronenmikroskopie
-				\item Immunhistochemie
+				\item \textbf{Elektronenmikroskopie}
+				\item \textbf{Immunhistochemie}
 					\begin{itemize}
-						\item Sichtbarmachen spezieller Zell- und Gewebe-Strukturen durch spezifische AG-AK-Reaktionen mittels monoklonaler AK
+						\item \textbf{Sichtbarmachen spezieller Zell- und Gewebe-Strukturen durch spezifische AG-AK-Reaktionen mittels monoklonaler AK}
 					\end{itemize}
-				\item biochemische Untersuchungen
+				\item \textbf{biochemische Untersuchungen}
 					\begin{itemize}
-						\item Nachweis bestimmter Strukturen aus Körperflüssigkeiten
-						\item Techniken: Immuno-Assay, Blotting-Verfahren (Immunoblot)
+						\item \textbf{Nachweis bestimmter Strukturen aus Körperflüssigkeiten}
+						\item \textbf{Techniken: Immuno-Assay, Blotting-Verfahren (Immunoblot)}
 					\end{itemize}
-				\item molekularbiologische Techniken
+				\item \textbf{molekularbiologische Techniken}
 					\begin{itemize}
-						\item Hybridisierungsmethoden
-						\item Amplifizierungsmethoden
+						\item \textbf{Hybridisierungsmethoden}
+						\item \textbf{Amplifizierungsmethoden}
 					\end{itemize}
 		\end{itemize}
 	\end{itemize}
 
 \subsection{postmortale Diagnostik}
 	\begin{itemize}
-		\item Obduktion, Sektion, innere Leichenbeschau, Autopsie:
-		\item sanitätspolizeiliche Obduktion:
+		\item \textbf{Obduktion, Sektion, innere Leichenbeschau, Autopsie}
 			\begin{itemize}
-				\item bei ungenügender Information
-			\end{itemize}
-		\item gerichtsmedizinische Obduktion:
-			\begin{itemize}
-				\item bei Verdacht auf Fremdverschulden
-			\end{itemize}
-		\item klinische Obduktion:
-			\begin{itemize}
-				\item zur Qualitätskontrolle
-			\end{itemize}
-		\item Zweck:
-			\begin{itemize}
-				\item Grundlage für Statistiken und gesundheitspolitische Maßnahmen
-				\item wissenschaftliche Aufgaben
-				\item rechtliche Grundlagen siehe Krankenanstaltengesetz
+				\item \textbf{sanitätspolizeiliche Obduktion}
+					\begin{itemize}
+						\item \textbf{bei ungenügender Information}
+					\end{itemize}
+				\item \textbf{gerichtsmedizinische Obduktion}
+					\begin{itemize}
+						\item \textbf{bei Verdacht auf Fremdverschulden}
+					\end{itemize}
+				\item \textbf{klinische Obduktion}
+					\begin{itemize}
+						\item \textbf{zur Qualitätskontrolle}
+					\end{itemize}
+				\item \textbf{Zweck}
+					\begin{itemize}
+						\item \textbf{Grundlage für Statistiken und gesundheitspolitische Maßnahmen}
+						\item \textbf{wissenschaftliche Aufgaben}
+						\item \textbf{rechtliche Grundlagen siehe Krankenanstaltengesetz}
+					\end{itemize}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{Übersicht: Krankheitsursachen, -Verlauf, -Ausgang}
 	\begin{itemize}
-		\item Krankheitsursachen (Ätiologie)
+		\item \textbf{Krankheitsursachen (Ätiologie)}
 			\begin{itemize}
-				\item endogene Krankheitsursachen
-				\item exogene Krankheitsursachen
+				\item \textbf{endogene Krankheitsursachen}
+				\item \textbf{exogene Krankheitsursachen}
 			\end{itemize}
-		\item Krankheitsverlauf
+		\item \textbf{Krankheitsverlauf}
 			\begin{itemize}
-				\item nach zeitlichem Verlauf
-				\item Rezidiv, Remission
+				\item \textbf{nach zeitlichem Verlauf}
+				\item \textbf{Rezidiv, Remission}
 			\end{itemize}
-		\item Krankheitsausgang
+		\item \textbf{Krankheitsausgang}
 	\end{itemize}
 
 \subsection{Krankheitsursachen}
 	\begin{itemize}
-		\item innere (endogene) Krankheitsursachen:
+		\item \textbf{innere (endogene) Krankheitsursachen}
 			\begin{itemize}
-				\item genetische Störungen:
+				\item \textbf{genetische Störungen}
 					\begin{itemize}
-						\item Chromosomenschäden, DNA-Schäden
+						\item \textbf{Chromosomenschäden, DNA-Schäden}
 					\end{itemize}
-				\item Disposition:
+				\item \textbf{Disposition}
 					\begin{itemize}
-						\item Altersdisposition, Geschlechtsdisposition, genetische Disposition, patholog. Disposition
+						\item \textbf{Altersdisposition, Geschlechtsdisposition, genetische Disposition, patholog. Disposition}
 					\end{itemize}
-				\item Autoimmunerkrankungen
-				\item hormonelle (endokrine) Störungen
+				\item \textbf{Autoimmunerkrankungen}
+				\item \textbf{hormonelle (endokrine) Störungen}
 			\end{itemize}
-	\end{itemize}
-
-\subsection{Krankheitsursachen}
-	\begin{itemize}
-		\item äußere (exogene) Krankheitsursachen:
-		\item Noxen
+		\item \textbf{äußere (exogene) Krankheitsursachen}
+		\item \textbf{Noxen}
 			\begin{itemize}
-				\item eine Noxe ist eine Substanz oder ein Ereignis, das einem biologischen Organismus Schäden zufügt
-				\item im weiteren Sinn versteht man unter einer "Noxe" jede Art von äußerer Krankheitsursache
+				\item \textbf{eine Noxe ist eine Substanz oder ein Ereignis, das einem biologischen Organismus Schäden zufügt}
+				\item \textbf{im weiteren Sinn versteht man unter einer "Noxe" jede Art von äußerer Krankheitsursache}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{Krankheitsursachen - Noxen}
 	\begin{itemize}
-		\item physikalische Noxen
+		\item \textbf{physikalische Noxen}
 			\begin{itemize}
-				\item mechanische Einwirkung:
+				\item \textbf{mechanische Einwirkung}
 					\begin{itemize}
-						\item akut: Trauma (Quetschung, Schnitt, Druck: Barotrauma, …..)
-						\item chronisch: Dekubitus
+						\item \textbf{akut: Trauma (Quetschung, Schnitt, Druck: Barotrauma, …..)}
+						\item \textbf{chronisch: Dekubitus}
 					\end{itemize}
-				\item thermische Einwirkung:
+				\item \textbf{thermische Einwirkung}
 					\begin{itemize}
-						\item Verbrennungen, Erfrierungen
+						\item \textbf{Verbrennungen, Erfrierungen}
 					\end{itemize}
-				\item Luftdruckveränderungen:
+				\item \textbf{Luftdruckveränderungen}
 					\begin{itemize}
-						\item Höhenkrankheit, Dekompressionssyndrom
+						\item \textbf{Höhenkrankheit, Dekompressionssyndrom}
 					\end{itemize}
-				\item Stromeinwirkung:
+				\item \textbf{Stromeinwirkung}
 					\begin{itemize}
-						\item Verbrennung, Herzrhythmusstörung, Atemlähmung
+						\item \textbf{Verbrennung, Herzrhythmusstörung, Atemlähmung}
 					\end{itemize}
-				\item Strahleneinwirkung:
+				\item \textbf{Strahleneinwirkung}
 					\begin{itemize}
-						\item UV-Strahlen, ionisierende Strahlung
+						\item \textbf{UV-Strahlen, ionisierende Strahlung}
 					\end{itemize}
 			\end{itemize}
-	\end{itemize}
-
-\subsection{Krankheitsursachen - Noxen}
-	\begin{itemize}
-		\item biologische Noxen
+		\item \textbf{biologische Noxen}
 			\begin{itemize}
-				\item lebende Krankheitserreger: Bakterien, Viren, Pilze, Würmer, …
-				\item Toxine von Bakterien, Pilzen, Pflanzen, Tieren
+				\item \textbf{lebende Krankheitserreger: Bakterien, Viren, Pilze, Würmer, $\dots$}
+				\item \textbf{Toxine von Bakterien, Pilzen, Pflanzen, Tieren}
 			\end{itemize}
-		\item chemisch-toxische Noxen
+		\item \textbf{chemisch-toxische Noxen}
 			\begin{itemize}
-				\item Laugen oder Säuren
-				\item anorganische Verbindungen: Metalle, Staube, Gase
-				\item organische Verbindungen: Alkohol, aromatische Amine, …
+				\item \textbf{Laugen oder Säuren}
+				\item \textbf{anorganische Verbindungen: Metalle, Staube, Gase}
+				\item \textbf{organische Verbindungen: Alkohol, aromatische Amine, $\dots$}
 			\end{itemize}
-		\item fehlerhafte Nahrungszufuhr und/oder – verwertung:
+		\item \textbf{fehlerhafte Nahrungszufuhr und/oder – Verwertung}
 			\begin{itemize}
-				\item Menge, Zusammensetzung, Aufnahme, ...
+				\item \textbf{Menge, Zusammensetzung, Aufnahme, $\dots$}
 			\end{itemize}
-		\item psychosoziale Faktoren (Noxe = ?)
+		\item \textbf{psychosoziale Faktoren (Noxe = ?)}
 	\end{itemize}
 
 \subsection{Krankheitsverlauf}
 	\begin{itemize}
-		\item perakut:
+		\item \textbf{perakut}
 			\begin{itemize}
-				\item besonders rasch, heftig, oft lebensbedrohlich
-				\item foudroyant (oder: fulminant) = "blitzartig" einsetzend und verlaufend
+				\item \textbf{besonders rasch, heftig, oft lebensbedrohlich}
+				\item \textbf{foudroyant (oder: fulminant) = "blitzartig" einsetzend und verlaufend}
 			\end{itemize}
-		\item akut:
+		\item \textbf{akut}
 			\begin{itemize}
-				\item plötzlicher Beginn, ausgeprägte Symptome (z.B. Lungenembolie)
+				\item \textbf{plötzlicher Beginn, ausgeprägte Symptome (z.B. Lungenembolie)}
 			\end{itemize}
-		\item subakut
+		\item \textbf{subakut}
 			\begin{itemize}
-				\item allmählicher Beginn (z.B. Hepatitis B)
+				\item \textbf{allmählicher Beginn (z.B. Hepatitis B)}
 			\end{itemize}
-		\item chronisch:
+		\item \textbf{chronisch}
 			\begin{itemize}
-				\item schleichender, längerer Verlauf, Symptome weniger ausgeprägt (z.B. MS)
+				\item \textbf{schleichender, längerer Verlauf, Symptome weniger ausgeprägt (z.B. MS)}
 			\end{itemize}
-	\end{itemize}
-
-\subsection{Krankheitsverlauf}
-	\begin{itemize}
-		\item rezidivierend: wiederkehrend
-		\item Rezidiv:
+		\item \textbf{rezidivierend}
 			\begin{itemize}
-				\item Wiederauftreten der selben KH nach völliger Abheilung oder nach symptomfreiem Intervall
+				\item \textbf{wiederkehrend}
 			\end{itemize}
-		\item Remission:
+		\item \textbf{Rezidiv}
 			\begin{itemize}
-				\item Zeitspanne der klinischen Symptomfreiheit einer in Schüben verlaufenden Erkrankung
+				\item \textbf{Wiederauftreten der selben KH nach völliger Abheilung oder nach symptomfreiem Intervall}
+			\end{itemize}
+		\item \textbf{Remission}
+			\begin{itemize}
+				\item \textbf{Zeitspanne der klinischen Symptomfreiheit einer in Schüben verlaufenden Erkrankung}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{Krankheitsausgang}
 	\begin{itemize}
-		\item Heilung
+		\item \textbf{Heilung}
 			\begin{itemize}
-				\item Restitutio ad integrum = völlige Wiederherstellung
+				\item \textbf{Restitutio ad integrum = völlige Wiederherstellung}
 			\end{itemize}
-		\item Defektheilung
+		\item \textbf{Defektheilung}
 			\begin{itemize}
-				\item Reparatio = bleibender Defekt
-				\item z.B. Ersatz durch minderwertiges Narbengewebe
+				\item \textbf{Reparatio = bleibender Defekt}
+				\item \textbf{z.B. Ersatz durch minderwertiges Narbengewebe}
 			\end{itemize}
-		\item Tod
+		\item \textbf{Tod}
 			\begin{itemize}
-				\item die genaue Grenze zwischen Leben und Tod ist schwer zu definieren
-				\item so können Patienten mit Herzstillstand manchmal erfolgreich wiederbelebt werden
-				\item einzelne Zellen und Gewebe können noch viele Stunden nach eingetretenem Hirntod auf äußere Einflüsse reagieren
+				\item \textbf{die genaue Grenze zwischen Leben und Tod ist schwer zu definieren}
+				\item \textbf{so können Patienten mit Herzstillstand manchmal erfolgreich wiederbelebt werden}
+				\item \textbf{einzelne Zellen und Gewebe können noch viele Stunden nach eingetretenem Hirntod auf äußere Einflüsse reagieren}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{Tod}
 	\begin{itemize}
-		\item klinischer Tod
+		\item \textbf{klinischer Tod}
 			\begin{itemize}
-				\item völliger Kreislaufstillstand; durch Reanimation aufhebbar, solange Funktion des ZNS noch erhalten (Wiederbelebungszeit)
-				\item unsichere Todeszeichen
+				\item \textbf{völliger Kreislaufstillstand; durch Reanimation aufhebbar, solange Funktion des ZNS noch erhalten (Wiederbelebungszeit)}
+				\item \textbf{unsichere Todeszeichen}
 			\end{itemize}
-		\item biologischer Tod
+		\item \textbf{biologischer Tod}
 			\begin{itemize}
-				\item Aufhören aller Organ- und Zellfunktionen
-				\item sichere Todeszeichen
+				\item \textbf{Aufhören aller Organ- und Zellfunktionen}
+				\item \textbf{sichere Todeszeichen}
 			\end{itemize}
-		\item Hirntod:
+		\item \textbf{Hirntod}
 			\begin{itemize}
-				\item irreversibler Ausfall aller Hirnfunktionen  $\rightarrow$  Transplantationschirurgie
-				\item objektive Feststellung: Nulllinien-EEG etc.
-			\end{itemize}
-	\end{itemize}
-
-\subsection{Todeszeichen}
-	\begin{itemize}
-		\item unsichere Todeszeichen
-			\begin{itemize}
-				\item Blässe der Haut und Abkühlung
-				\item Aufhören der Atemfunktion und der Herz-Kreislauf-Funktion
-					\begin{itemize}
-						\item fehlende Atmung
-						\item fehlender Puls
-						\item fehlender Herzschlag
-					\end{itemize}
-				\item Aufhören der ZNS-Funktion
-					\begin{itemize}
-						\item Bewusstlosigkeit
-						\item fehlender Pupillenreflex (vgl. Areflexie)
-						\item komplette Lähmung aller Muskeln
-					\end{itemize}
+				\item \textbf{irreversibler Ausfall aller Hirnfunktionen  $\rightarrow$  Transplantationschirurgie}
+				\item \textbf{objektive Feststellung: Nulllinien-EEG etc.}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{Todeszeichen}
 	\begin{itemize}
-		\item sichere Todeszeichen
+		\item \textbf{unsichere Todeszeichen}
 			\begin{itemize}
-				\item Verletzungen, die mit dem Leben nicht mehr vereinbar sind (z.B. Fehlen des Kopfes)
-				\item Totenkälte (Algor mortis)
-				\item Totenflecken (Livores)
-				\item Totenstarre (Rigor mortis, Leichenstarre)
-				\item Autolyse (Verwesung) und Fäulnis
+				\item \textbf{Blässe der Haut und Abkühlung}
+				\item \textbf{Aufhören der Atemfunktion und der Herz-Kreislauf-Funktion}
+					\begin{itemize}
+						\item \textbf{fehlende Atmung}
+						\item \textbf{fehlender Puls}
+						\item \textbf{fehlender Herzschlag}
+					\end{itemize}
+				\item \textbf{Aufhören der ZNS-Funktion}
+					\begin{itemize}
+						\item \textbf{Bewusstlosigkeit}
+						\item \textbf{fehlender Pupillenreflex (vgl. Areflexie)}
+						\item \textbf{komplette Lähmung aller Muskeln}
+					\end{itemize}
+			\end{itemize}
+		\item \textbf{sichere Todeszeichen}
+			\begin{itemize}
+				\item \textbf{Verletzungen, die mit dem Leben nicht mehr vereinbar sind (z.B. Fehlen des Kopfes)}
+				\item \textbf{Totenkälte (Algor mortis)}
+				\item \textbf{Totenflecken (Livores)}
+				\item \textbf{Totenstarre (Rigor mortis, Leichenstarre)}
+				\item \textbf{Autolyse (Verwesung) und Fäulnis}
 			\end{itemize}
 	\end{itemize}
 
-\subsection{Zellschäden - gewebeschäden}
+\section{Zellschäden - gewebeschäden}
 
 \subsection{Übersicht}
 	\begin{itemize}
-		\item Regeneration – Reparation
-		\item Zellschäden
+		\item \textbf{Regeneration – Reparation}
+		\item \textbf{Zellschäden}
 			\begin{itemize}
-				\item Ursachen
-				\item reversible Zellschäden
+				\item \textbf{Ursachen}
+				\item \textbf{reversible Zellschäden}
 					\begin{itemize}
-						\item Dystrophie
+						\item \textbf{Dystrophie}
 					\end{itemize}
-				\item irreversible Zellschäden
+				\item \textbf{irreversible Zellschäden}
 					\begin{itemize}
-						\item Apoptose
-						\item Nekrose
+						\item \textbf{Apoptose}
+						\item \textbf{Nekrose}
 					\end{itemize}
-				\item Zellwachstumsstörungen
+				\item \textbf{Zellwachstumsstörungen}
 					\begin{itemize}
-						\item quantitative Zellwachstumsstörungen
-						\item qualitative Zellwachstumsstörungen
+						\item \textbf{quantitative Zellwachstumsstörungen}
+						\item \textbf{qualitative Zellwachstumsstörungen}
 					\end{itemize}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{Regeneration - Reparation}
 	\begin{itemize}
-		\item Ersatz von verlorengegangenen Zellen oder Geweben durch Zell- und Gewebsneubildung
-		\item physiologische Regeneration
+		\item \textbf{Ersatz von verlorengegangenen Zellen oder Geweben durch Zell- und Gewebsneubildung}
+		\item \textbf{physiologische Regeneration}
 			\begin{itemize}
-				\item Zellersatz von durch natürlichen Verschleiß verlorengegangenen Zellen
-				\item die ursprüngliche Struktur und Funktion bleibt erhalten
+				\item \textbf{Zellersatz von durch natürlichen Verschleiß verlorengegangenen Zellen}
+				\item \textbf{die ursprüngliche Struktur und Funktion bleibt erhalten}
 			\end{itemize}
-		\item pathologischer Gewebeersatz
+		\item \textbf{pathologischer Gewebeersatz}
 			\begin{itemize}
-				\item Ersatz von Geweben, die durch krankhafte Einflüsse zugrunde gegangen sind
+				\item \textbf{Ersatz von Geweben, die durch krankhafte Einflüsse zugrunde gegangen sind}
 					\begin{itemize}
-						\item vollständige pathologische Regeneration: Ersatz defekter Zellen und Gewebe durch morphologisch gleichartige und funktionell gleichwertige Strukturen
-						\item Reparation: Ersatz durch Ersatzgewebsbildung (Defektheilung)
+						\item \textbf{vollständige pathologische \emph{Regeneration}: Ersatz defekter Zellen und Gewebe durch morphologisch gleichartige und funktionell gleichwertige Strukturen}
+						\item \textbf{\emph{Reparation}: Ersatz durch Ersatzgewebsbildung (Defektheilung)}
 					\end{itemize}
 			\end{itemize}
-	\end{itemize}
-
-\subsection{Regeneration - Reparation}
-	\begin{itemize}
-		\item proliferatives Potential von Geweben und Zellen
+		\item \textbf{proliferatives Potential von Geweben und Zellen}
 			\begin{itemize}
-				\item Wechselgewebe = labiles Gewebe
+				\item \textbf{Wechselgewebe = labiles Gewebe}
 					\begin{itemize}
-						\item Häute/Schleimhäute (Epithel)
-						\item Knochenmark
+						\item \textbf{Häute/Schleimhäute (Epithel)}
+						\item \textbf{Knochenmark}
 					\end{itemize}
-				\item ruhendes = stabiles Gewebe
+				\item \textbf{ruhendes = stabiles Gewebe}
 					\begin{itemize}
-						\item Parenchymzellen, z.B. Leber, Pankreas
-						\item Mesenchymzellen, z.B. Fibroblasten, glatte Muskelzellen, Chondrozyten, Osteozyten, Endothelien
+						\item \textbf{Parenchymzellen, z.B. Leber, Pankreas}
+						\item \textbf{Mesenchymzellen, z.B. Fibroblasten, glatte Muskelzellen, Chondrozyten, Osteozyten, Endothelien}
 					\end{itemize}
-				\item permanentes Gewebe
+				\item \textbf{permanentes Gewebe}
 					\begin{itemize}
-						\item Neurone
-						\item Skelettmuskulatur
-						\item Herzmuskel
+						\item \textbf{Neurone}
+						\item \textbf{Skelettmuskulatur}
+						\item \textbf{Herzmuskel}
 					\end{itemize}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{Ursachen des Zellschadens (Noxen)}
 	\begin{itemize}
-		\item Hypoxie ( $\rightarrow$  hypoxische Zellschädigung)
+		\item \textbf{Hypoxie ( $\rightarrow$  hypoxische Zellschädigung)}
 			\begin{itemize}
-				\item häufigster Mechanismus einer Zellschädigung
-				\item Mangeldurchblutung durch Hypotonie, Arteriosklerose, Thrombose, ….
+				\item \textbf{häufigster Mechanismus einer Zellschädigung}
+				\item \textbf{Mangeldurchblutung durch Hypotonie, Arteriosklerose, Thrombose, $\dots$}
 			\end{itemize}
-		\item chemische Substanzen
+		\item \textbf{chemische Substanzen}
 			\begin{itemize}
-				\item toxische Wirkung konzentrationsabhängig, sehr breites Spektrum potentieller Noxen und Angriffspunkte an der Zelle
+				\item \textbf{toxische Wirkung konzentrationsabhängig, sehr breites Spektrum potentieller Noxen und Angriffspunkte an der Zelle}
 			\end{itemize}
-		\item Infektion
+		\item \textbf{Infektion}
 			\begin{itemize}
-				\item Viren, Bakterien, Pilze, Parasiten mit sehr verschiedenen meist gut definierten zellulären Schädigungsmechanismen (DNA-Schädigung, Toxinwirkung, Immunreaktion)
+				\item \textbf{Viren, Bakterien, Pilze, Parasiten mit sehr verschiedenen meist gut definierten zellulären Schädigungsmechanismen (DNA-Schädigung, Toxinwirkung, Immunreaktion)}
 			\end{itemize}
-	\end{itemize}
-
-\subsection{Ursachen des Zellschadens}
-	\begin{itemize}
-		\item Immunreaktionen
+		\item \textbf{Immunreaktionen}
 			\begin{itemize}
-				\item Erregerabwehr (v.a. virale Infektionen), Autoimmunerkrankungen, Transplantatabstoßung
+				\item \textbf{Erregerabwehr (v.a. virale Infektionen), Autoimmunerkrankungen, Transplantatabstoßung}
 			\end{itemize}
-		\item genetische Defekte
+		\item \textbf{genetische Defekte}
 			\begin{itemize}
-				\item führen zu komplexen Multiorganstörungen (z.B. Trisomien)  oder pathogenen Veränderungen einzelner Proteine durch Punktmutationen (z.B. Sichelzellanämie)
+				\item \textbf{führen zu komplexen Multiorganstörungen (z.B. Trisomien)  oder pathogenen Veränderungen einzelner Proteine durch Punktmutationen (z.B. Sichelzellanämie)}
 			\end{itemize}
-		\item inadäquate Ernährung
+		\item \textbf{inadäquate Ernährung}
 			\begin{itemize}
-				\item klassischerweise Mangelernährung (z.B. Vitamine)
-				\item in Industrienationen aber auch Überangebot, vor allem an Lipiden und Kohlehydraten
+				\item \textbf{klassischerweise Mangelernährung (z.B. Vitamine)}
+				\item \textbf{in Industrienationen aber auch Überangebot, vor allem an Lipiden und Kohlehydraten}
 			\end{itemize}
-		\item physikalische Einwirkungen
+		\item \textbf{physikalische Einwirkungen}
 			\begin{itemize}
-				\item mechanische Traumen, Temperatur, Strom,  nichtionisierende (UV) und ionisierende (Röntgen, Radioaktivität) Strahlung
+				\item \textbf{mechanische Traumen, Temperatur, Strom,  nichtionisierende (UV) und ionisierende (Röntgen, Radioaktivität) Strahlung}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{Zell- und Gewebereaktionen auf Noxen}
 	\begin{itemize}
-		\item Zellschäden
+		\item \textbf{Zellschäden}
 			\begin{itemize}
-				\item reversibel: "Dystrophie"
-				\item irreversibel: Nekrose, Apoptose
+				\item \textbf{reversibel: "Dystrophie"}
+				\item \textbf{irreversibel: Nekrose, Apoptose}
 			\end{itemize}
-		\item quantitative Differenzierungsstörung (meist Anpassungsreaktion)
+		\item \textbf{quantitative Differenzierungsstörung (meist Anpassungsreaktion)}
 			\begin{itemize}
-				\item Agenesie, Aplasie, Hypoplasie
-				\item Atrophie
-				\item Hypertrophie, Hyperplasie
+				\item \textbf{Agenesie, Aplasie, Hypoplasie}
+				\item \textbf{Atrophie}
+				\item \textbf{Hypertrophie, Hyperplasie}
 			\end{itemize}
-		\item qualitative Differenzierungsstörung
+		\item \textbf{qualitative Differenzierungsstörung}
 			\begin{itemize}
-				\item Metaplasie
-				\item Dysplasie
-				\item Anaplasie
+				\item \textbf{Metaplasie}
+				\item \textbf{Dysplasie}
+				\item \textbf{Anaplasie}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{reversible Zellschädigungen}
 	\begin{itemize}
-		\item reversible Zellschädigungen  $\rightarrow$  "point of no return"  $\rightarrow$  irreversible Zellschädigung (Zelltod)
-		\item Quantität der Noxe entscheidend
-		\item reversible Zellschädigungen: "Dystrophien"
+		\item \textbf{reversible Zellschädigungen  $\rightarrow$  "point of no return"  $\rightarrow$  irreversible Zellschädigung (Zelltod)}
+		\item \textbf{Quantität der Noxe entscheidend}
+		\item \textbf{reversible Zellschädigungen: "Dystrophien"}
 			\begin{itemize}
-				\item Zellödem ("trübe Schwellung")
-				\item intrazelluläre Verfettung (fettige Dystrophie)
-				\item hyaline Dystrophie / Degeneration
+				\item \textbf{Zellödem ("trübe Schwellung")}
+				\item \textbf{intrazelluläre Verfettung (fettige Dystrophie)}
+				\item \textbf{hyaline Dystrophie / Degeneration}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{irreversible Zellschädigungen}
 	\begin{itemize}
-		\item irreversible Zellschädigungen
+		\item \textbf{irreversible Zellschädigungen}
 			\begin{itemize}
-				\item Apoptose
-				\item Nekrose
+				\item \textbf{Apoptose}
+				\item \textbf{Nekrose}
 					\begin{itemize}
-						\item Kennzeichen der Nekrose
-						\item Nekroseformen
-						\item Folgen der Nekrose
+						\item \textbf{Kennzeichen der Nekrose}
+						\item \textbf{Nekroseformen}
+						\item \textbf{Folgen der Nekrose}
 					\end{itemize}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{Apoptose}
 	\begin{itemize}
-		\item Apoptose = programmierter Zelltod
+		\item \textbf{Apoptose = programmierter Zelltod}
 			\begin{itemize}
-				\item genetisch fixiertes "Selbstmordprogramm" einer Zelle
-				\item Programm zur Elimination einzelner Zellen deren Funktion nicht mehr benötigt wird oder die einen irreparablen (genetischen) Schaden erlitten haben
-				\item kann von außen angeregt (extrinisisch) oder durch  zellinterne Mechanismen (intrinsisch) initiiert werden
-				\item aktiver streng gesteuerter Prozess durch den sichergestellt wird, dass die betroffene Zelle ohne Schädigung des Nachbargewebes zugrundegeht
-				\item typische Veränderungen:
+				\item \textbf{genetisch fixiertes "Selbstmordprogramm" einer Zelle}
+				\item \textbf{Programm zur Elimination einzelner Zellen deren Funktion nicht mehr benötigt wird oder die einen irreparablen (genetischen) Schaden erlitten haben}
+				\item \textbf{kann von außen angeregt (extrinisisch) oder durch  zellinterne Mechanismen (intrinsisch) initiiert werden}
+				\item \textbf{aktiver streng gesteuerter Prozess durch den sichergestellt wird, dass die betroffene Zelle ohne Schädigung des Nachbargewebes zugrundegeht}
+				\item \textbf{typische Veränderungen}
 					\begin{itemize}
-						\item Kernschrumpfung, Zellorganellen und Zellkontakte lösen sich auf
+						\item \textbf{Kernschrumpfung, Zellorganellen und Zellkontakte lösen sich auf}
 					\end{itemize}
 			\end{itemize}
-	\end{itemize}
-
-\subsection{Apoptose}
-	\begin{itemize}
-		\item Apoptose als genetisch programmiertes, geregeltes Absterben von Zellen (physiologische Form des Zelltodes):
+		\item \textbf{Apoptose als genetisch programmiertes, geregeltes Absterben von Zellen (physiologische Form des Zelltodes)}
 			\begin{itemize}
-				\item während der Embryonalentwicklung
-				\item während des Lebens und Alterns
+				\item \textbf{während der Embryonalentwicklung}
+				\item \textbf{während des Lebens und Alterns}
 			\end{itemize}
-		\item Apoptose als induziertes Absterben der Zellen:
+		\item \textbf{Apoptose als induziertes Absterben der Zellen}
 			\begin{itemize}
-				\item Effekt eines Virusbefalls, einer Immunreaktion oder von Zytokinen, …
+				\item \textbf{Effekt eines Virusbefalls, einer Immunreaktion oder von Zytokinen, $\dots$}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{Nekrose}
 	\begin{itemize}
-		\item Nekrose = provozierter Zelltod
+		\item \textbf{Nekrose = provozierter Zelltod}
 			\begin{itemize}
-				\item Endstrecke einer irreversiblen Stoffwechselstörung
-				\item passiver Prozess, die Zelle versucht jedoch zuerst durch eine Anpassungsreaktion der Schädigung zu entgehen
-				\item typische Veränderungen:
+				\item \textbf{Endstrecke einer irreversiblen Stoffwechselstörung}
+				\item \textbf{passiver Prozess, die Zelle versucht jedoch zuerst durch eine Anpassungsreaktion der Schädigung zu entgehen}
+				\item \textbf{typische Veränderungen}
 					\begin{itemize}
-						\item Zytoplasmaveränderungen (Eosinophilie des Plasmas)
-						\item Zellkernveränderungen (Karyolyse $\rightarrow$ Diagnostik!)
-						\item Zerstörung der Zellmembran mit Übertritt von intrazellulären Enzymen in die Umgebung und ins Blut
-						\item Reaktion des umgebenden Gewebes:
+						\item \textbf{Zytoplasmaveränderungen (Eosinophilie des Plasmas)}
+						\item \textbf{Zellkernveränderungen (Karyolyse $\rightarrow$ Diagnostik!)}
+						\item \textbf{Zerstörung der Zellmembran mit Übertritt von intrazellulären Enzymen in die Umgebung und ins Blut}
+						\item \textbf{Reaktion des umgebenden Gewebes}
+							\begin{itemize}
+								\item \textbf{hyperämischer Randsaum}
+								\item \textbf{leukozytärer Demarkationswall}
+								\item \textbf{Granulationsgewebe}
+							\end{itemize}
 					\end{itemize}
-				\item hyperämischer Randsaum
-				\item leukozytärer Demarkationswall
-				\item Granulationsgewebe
 			\end{itemize}
-	\end{itemize}
-
-\subsection{Nekrose}
-	\begin{itemize}
-		\item Nekroseformen:
+		\item \textbf{Nekroseformen}
 			\begin{itemize}
-				\item Koagulationsnekrose
-				\item Kolliquationsnekrose
-				\item käsige Nekrose
-				\item gangränöse Nekrose
-				\item hämorrhagische Nekrose
+				\item \textbf{Koagulationsnekrose}
+				\item \textbf{Kolliquationsnekrose}
+				\item \textbf{käsige Nekrose}
+				\item \textbf{gangränöse Nekrose}
+				\item \textbf{hämorrhagische Nekrose}
 			\end{itemize}
-		\item Folgen der Nekrose:
+		\item \textbf{Folgen der Nekrose}
 			\begin{itemize}
-				\item restitutio ad integrum
-				\item Defektheilung / Narbenbildung
-				\item Hohlraumbildung (Zyste etc.)
-				\item Ulkusbildung
+				\item \textbf{restitutio ad integrum}
+				\item \textbf{Defektheilung / Narbenbildung}
+				\item \textbf{Hohlraumbildung (Zyste etc.)}
+				\item \textbf{Ulkusbildung}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{Übersicht: Zellwachstumsstörungen}
 	\begin{itemize}
-		\item pathologisches Zellwachstum
+		\item \textbf{pathologisches Zellwachstum}
 			\begin{itemize}
-				\item quantitative Wachstumsstörungen
+				\item \textbf{quantitative Wachstumsstörungen}
 					\begin{itemize}
-						\item Verminderung des Zellwachstums = Atrophie
-						\item angeborene Störungen mit Hemmung des Wachstums
-						\item Vermehrung des Zellwachstums = Hypertrophie, Hyperplasie
+						\item \textbf{Verminderung des Zellwachstums = Atrophie}
+						\item \textbf{angeborene Störungen mit Hemmung des Wachstums}
+						\item \textbf{Vermehrung des Zellwachstums = Hypertrophie, Hyperplasie}
 					\end{itemize}
-				\item qualitative Zellwachstumsstörungen
+				\item \textbf{qualitative Zellwachstumsstörungen}
 					\begin{itemize}
-						\item Metaplasie, Dysplasie, Anaplasie
+						\item \textbf{Metaplasie, Dysplasie, Anaplasie}
 					\end{itemize}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{Anpassungsreaktionen auf zellulären Stress}
+	\begin{center}
+		\includegraphics[scale=0.5]{Picture1.jpg}
+	\end{center}
 
 \subsection{quantitative Wachstumsstörungen}
 	\begin{itemize}
-		\item Atrophie = Verminderung des Zellwachstums
+		\item \textbf{Atrophie = Verminderung des Zellwachstums}
 			\begin{itemize}
-				\item Verkleinerung eines primär normal entwickelten und normal großen Gewebes bzw. Organs
-				\item Überwiegen der katabolen über die anabolen Stoffwechselvorgänge
+				\item \textbf{Verkleinerung eines primär normal entwickelten und normal großen Gewebes bzw. Organs}
+				\item \textbf{Überwiegen der katabolen über die anabolen Stoffwechselvorgänge}
 					\begin{itemize}
-						\item einfache Atrophie: Zellverkleinerung
-						\item numerische Atrophie: Verminderung der Zellzahl
+						\item \textbf{einfache Atrophie: Zellverkleinerung}
+						\item \textbf{numerische Atrophie: Verminderung der Zellzahl}
 					\end{itemize}
-				\item physiologische Atrophie:
+				\item \textbf{physiologische Atrophie}
 					\begin{itemize}
-						\item im Rahmen normaler physiologischer Entwicklungsprozesse
+						\item \textbf{im Rahmen normaler physiologischer Entwicklungsprozesse}
 					\end{itemize}
-				\item pathologische Atrophie:
+				\item \textbf{pathologische Atrophie}
 					\begin{itemize}
-						\item im Rahmen krankhafter Ereignisse, Überwiegen der katabolen Prozesse
+						\item \textbf{im Rahmen krankhafter Ereignisse, Überwiegen der katabolen Prozesse}
 					\end{itemize}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{quantitative Wachstumsstörungen}
 	\begin{itemize}
-		\item lokale Atrophien
+		\item \textbf{lokale Atrophien}
 			\begin{itemize}
-				\item auf ein Organ oder einen Gewebsabschnitt beschränkt
+				\item \textbf{auf ein Organ oder einen Gewebsabschnitt beschränkt}
 					\begin{itemize}
-						\item Inaktivitätsatrophie
-						\item vaskuläre Atrophie $\rightarrow$ Ischämie
-						\item mechanische Druckatrophie $\rightarrow$ Kompression
-						\item neurogene Atrophie (fehlende Innervation)
-						\item Erschöpfungsatrophie
-						\item endokrine Atrophie (mangelnder hormoneller Stimulus)
-						\item genetisch bedingte Atrophie
+						\item \textbf{Inaktivitätsatrophie}
+						\item \textbf{vaskuläre Atrophie $\rightarrow$ Ischämie}
+						\item \textbf{mechanische Druckatrophie $\rightarrow$ Kompression}
+						\item \textbf{neurogene Atrophie (fehlende Innervation)}
+						\item \textbf{Erschöpfungsatrophie}
+						\item \textbf{endokrine Atrophie (mangelnder hormoneller Stimulus)}
+						\item \textbf{genetisch bedingte Atrophie}
 					\end{itemize}
-				\item generalisierte Atrophien
+				\item \textbf{generalisierte Atrophien}
 					\begin{itemize}
-						\item den gesamten Körper betreffend
+						\item \textbf{den gesamten Körper betreffend}
 							\begin{itemize}
-								\item senile Atrophie
-								\item Hungeratrophie
-								\item Kachexie
+								\item \textbf{senile Atrophie}
+								\item \textbf{Hungeratrophie}
+								\item \textbf{Kachexie}
 							\end{itemize}
 				\end{itemize}
 		\end{itemize}
-	\end{itemize}
-
-\subsection{quantitative Wachstumsstörungen}
-	\begin{itemize}
-		\item angeborene Störungen mit Hemmung des Wachstums
+		\item \textbf{angeborene Störungen mit Hemmung des Wachstums}
 			\begin{itemize}
-				\item Agenesie: gesamte Organanlage fehlt
-				\item Aplasie: Organentwicklung fand nicht statt
-				\item Hypoplasie: Organentwicklung kam vorzeitig zum Stillstand (Unterentwicklung)
+				\item \textbf{Agenesie: gesamte Organanlage fehlt}
+				\item \textbf{Aplasie: Organentwicklung fand nicht statt}
+				\item \textbf{Hypoplasie: Organentwicklung kam vorzeitig zum Stillstand (Unterentwicklung)}
 			\end{itemize}
-	\end{itemize}
-
-\subsection{quantitative Wachstumsstörungen}
-	\begin{itemize}
-		\item Hypertrophie
+		\item \textbf{Hypertrophie}
 			\begin{itemize}
-				\item Organvergrößerung durch Zellvergrößerung ohne Zellvermehrung
-				\item Steigerung der Leistungsfähigkeit, jedoch Verminderung der Reserve
+				\item \textbf{Organvergrößerung durch Zellvergrößerung ohne Zellvermehrung}
+				\item \textbf{Steigerung der Leistungsfähigkeit, jedoch Verminderung der Reserve}
 					\begin{itemize}
-						\item Arbeitshypertrophie (vermehrte Arbeitsbelastung)
-						\item kompensatorische Hypertrophie
+						\item \textbf{Arbeitshypertrophie (vermehrte Arbeitsbelastung)}
+						\item \textbf{kompensatorische Hypertrophie}
 					\end{itemize}
 			\end{itemize}
-	\end{itemize}
-
-\subsection{quantitative Wachstumsstörungen}
-	\begin{itemize}
-		\item Hyperplasie
+		\item \textbf{Hyperplasie}
 			\begin{itemize}
-				\item Organvergrößerung durch Zellvermehrung
-				\item regeneratorische Hyperplasie:
+				\item \textbf{Organvergrößerung durch Zellvermehrung}
+				\item \textbf{regeneratorische Hyperplasie}
 					\begin{itemize}
-						\item Reaktion auf Gewebeschädigung mit überschießender Regeneration / Reparation
+						\item \textbf{Reaktion auf Gewebeschädigung mit überschießender Regeneration / Reparation}
 					\end{itemize}
-				\item Hyperplasien infolge endokriner Störungen:
+				\item \textbf{Hyperplasien infolge endokriner Störungen}
 					\begin{itemize}
-						\item vermehrter Hormonstimulus
-						\item z.B. Hyperplasie der Prostata, Hyperplasie der Schilddrüse
+						\item \textbf{vermehrter Hormonstimulus}
+						\item \textbf{z.B. Hyperplasie der Prostata, Hyperplasie der Schilddrüse}
 					\end{itemize}
 			\end{itemize}
 	\end{itemize}
 
 \subsection{qualitative Wachstumsstörungen}
 	\begin{itemize}
-		\item Metaplasie:
+		\item \textbf{Metaplasie}
 			\begin{itemize}
-				\item Ersatz eines ausdifferenzierten Gewebes durch anderes hochdifferenziertes Gewebe
+				\item \textbf{Ersatz eines ausdifferenzierten Gewebes durch anderes hochdifferenziertes Gewebe}
 			\end{itemize}
-		\item Dysplasie:
+		\item \textbf{Dysplasie}
 			\begin{itemize}
-				\item meist noch reversible Veränderungen von Zellen durch atypische Regeneration und Verlust der Differenzierung fließender Übergang zur (irreversiblen) Anaplasie
+				\item \textbf{meist noch reversible Veränderungen von Zellen durch atypische Regeneration und Verlust der Differenzierung fließender Übergang zur (irreversiblen) Anaplasie}
 			\end{itemize}
-		\item Anaplasie:
+		\item \textbf{Anaplasie}
 			\begin{itemize}
-				\item irreversible Entdifferenzierung der Zellen und Gewebe mit Verlust der geweblichen Struktur und der Formbesonderheiten der Zellen = Malignität
+				\item \textbf{irreversible Entdifferenzierung der Zellen und Gewebe mit Verlust der geweblichen Struktur und der Formbesonderheiten der Zellen = Malignität}
 			\end{itemize}
 	\end{itemize}

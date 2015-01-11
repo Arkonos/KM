@@ -1,6 +1,6 @@
 \section*{Erkrankungen des Atmungssystems}
-	\subsection*{Atemwegserkrankungen}
-		\subsubsection*{Lungendiagnostik}
+	\subsection{Atemwegserkrankungen}
+		\subsubsection{Lungendiagnostik}
 			\begin{itemize}
 				\item \textbf{klinische Diagnostik}
 					\begin{itemize}
@@ -33,7 +33,7 @@
 					\end{itemize}
 				\item \textbf{Pleurapunktion}
 			\end{itemize}
-		\subsubsection*{Therapie}
+		\subsubsection{Therapie}
 			\begin{itemize}
 				\item \textbf{Ausschalten von schädigenden Einflüssen}
 				\item \textbf{medikamentös}
@@ -51,7 +51,7 @@
 				\item \textbf{Lockern, Lösen und Absaugen von Sekret}
 				\item \textbf{Inhalationen}
 			\end{itemize}
-	\subsection*{Erkrankungen des Atmungssystems}
+	\subsection{Erkrankungen des Atmungssystems}
 		\paragraph*{\textbf{Übersicht:}}
 		\begin{itemize}
 			\item \textbf{Bronchitis}
@@ -68,7 +68,7 @@
 			\item \textbf{Lungenembolie}
 			\item \textbf{Lungenödem}
 		\end{itemize}
-		\subsubsection*{akute Bronchitis}
+		\subsubsection{akute Bronchitis}
 			\begin{itemize}
 				\item \textbf{Definition}
 					\begin{itemize}
@@ -95,7 +95,7 @@
 						\item \textbf{symptomatische Th; ev. AB}
 					\end{itemize}
 			\end{itemize}
-		\subsubsection*{COPD}
+		\subsubsection{COPD}
 			\begin{itemize}
 				\item \textbf{"chronic obstructive pulmonary disease"}
 				\item \textbf{chronische Lungenerkrankung, die mit Einengung der Atemwege einhergeht (Obstruktion):}
@@ -149,7 +149,7 @@
 						\item \textbf{Pneumothorax (durch Platzen einer großen Emphysemblase)}
 					\end{itemize}
 			\end{itemize}
-		\subsubsection*{Asthma bronchiale}
+		\subsubsection{Asthma bronchiale}
 			\begin{itemize}
 				\item \textbf{Definition}
 					\begin{itemize}
@@ -177,7 +177,7 @@
 						\item \textbf{Cor pulmonale}
 					\end{itemize}
 			\end{itemize}
-		\subsubsection*{Pneumonie}
+		\subsubsection{Pneumonie}
 			\begin{itemize}
 				\item \textbf{Definition}
 					\begin{itemize}
@@ -218,7 +218,7 @@
 						\item \textbf{ausreichende Flüssigkeitszufuhr}
 					\end{itemize}
 			\end{itemize}
-		\subsubsection*{Lungenembolie}
+		\subsubsection{Lungenembolie}
 			\begin{itemize}
 				\item \textbf{Definition}
 					\begin{itemize}
@@ -290,7 +290,7 @@
 							\end{itemize}
 					\end{itemize}
 			\end{itemize}
-		\subsubsection*{Lungenödem}
+		\subsubsection{Lungenödem}
 			\begin{itemize}
 				\item \textbf{Definition}
 						\begin{itemize}

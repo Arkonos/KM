@@ -1,193 +1,192 @@
-%\section*{Kreislauf- und Gefäßerkrankungen}
-%	\subsection{Kreislauf- und Gefäßerkrankungen}
-%		\subsubsection{Übersicht}
-%			\begin{itemize}
-%				\item \textbf{Ödem}
-%				\item \textbf{Thrombose}
-%				\item \textbf{Embolie}
-%				\item \textbf{Pahtologie der Arterien}
-%					\begin{itemize}
-%						\item \textbf{Arteriosklerose}
-%						\item \textbf{Aneurysma}
-%						\item \textbf{pAVK}
-%						\item \textbf{akuter Arterienverschluss}
-%					\end{itemize}
-%				\item \textbf{Pahtologie der Venen}
-%					\begin{itemize}
-%						\item \textbf{Varizen}
-%						\item \textbf{Thrombophlebitis, Phlebothrombose/TVT}
-%					\end{itemize}
-%				\item \textbf{arterielle Hypertonie}
-%				\item \textbf{Schock}
-%			\end{itemize}
-%	\subsection{Ödem}
-%		\begin{itemize}
-%			\item \textbf{Definition}
-%				\begin{itemize}
-%					\item \textbf{Flüssigkeitsansammlung in einem Gewebe}
-%				\end{itemize}
-%			\item \textbf{Einteilung (Übersicht)}
-%				\begin{itemize}
-%					\item \textbf{Lymphstauungsödem}
-%					\item \textbf{Blutstauungsödem}
-%					\item \textbf{Proteinmangelödem (=onkotische Ödeme)}
-%					\item \textbf{renale Ödeme}
-%					\item \textbf{kapillartoxische Ödeme}
-%				\end{itemize}
-%			\item \textbf{Lymphstauungsödem}
-%				\begin{itemize}
-%					\item \textbf{Blockade größerer Lymphgefäße bzw. Lymphknoten}
-%					\item \textbf{Ursachen: Tumorerkrankungen und –behandlung, Infektionen}, Entzündung (durch Filarien $\rightarrow$ Elephantiasis)\\
-%						früher radikale Lyhmphknotenentfernen zB. bei Mammacarzinom
-%				\end{itemize}
-%			\item \textbf{Blutstauungsödem}
-%				\begin{itemize}
-%					\item \textbf{Ursachen}
-%						\begin{itemize}
-%							\item \textbf{örtliche Behinderung des Blutabflusses}\\
-%								' \textbf{venös (Beinvenen)}
-%							\item \textbf{kardial bedingte Abflussbehinderung: Herzinsuffizienz (siehe Herzerkrankungen)}
-%						\end{itemize}
-%				\end{itemize}
-%			\item \textbf{Eiweißmangelödeme}
-%				\begin{itemize}
-%					\item \textbf{Ursachen}
-%						\begin{itemize}
-%							\item Proteinmangel $\rightarrow$ Aszites (Abgemagert, aber dicker Bauch)
-%							\item \textbf{Hunger, Fehlernährung, Eiweißverlust (renal), Eiweißsynthesestörung}
-%						\end{itemize}
-%				\end{itemize}
-%			\item \textbf{renale Ödeme} $\rightarrow$ Augenliedödem
-%			\item \textbf{Ödeme durch Schädigung der Kapillarwand}\\
-%				zB.: Insektengift
-%		\end{itemize}
-%	\subsection{Thrombose}
-%		\begin{itemize}
-%			\item \textbf{Definition}
-%				\begin{itemize}
-%					\item \textbf{Bildung eines Blutgerinnsels (Thrombus) in einer Vene oder Arterie}, Gerinnungskaskade
-%					\item solten sich nach Heilung wieder auflösen
-%					\item \textbf{intravitale, intravasale Blutgerinnung}
-%					\item \textbf{Folge: teilweise oder vollständige Unterbrechung des Blutflusses}
-%				\end{itemize}
-%			\item \textbf{Entstehung}
-%					\begin{itemize}
-%						\item \textbf{Virchow'sche Trias}
-%							\begin{itemize}
-%								\item \textbf{Gefäßwandfaktor}, Form der Gefäßwand
-%								\item \textbf{Zirkulationsfaktor}, zu langsame Zirkulation
-%								\item veränderte Blutzusammensetzung, \textbf{Humoralfaktor}, zu viel Zellen, od. Flüssigkeit
-%							\end{itemize}
-%					\end{itemize}
-%		\end{itemize}
-%	\subsection{Embolie}
-%		\begin{itemize}
-%			\item \textbf{Definition}
-%				\begin{itemize}
-%					\item \textbf{Verschleppung von geformten Elementen (= Embolus, zB } (Thrombus, selten Luft)\textbf{ auf dem Blut - oder Lymphweg}
-%				\end{itemize}
-%			\item \textbf{Folge}
-%					\begin{itemize}
-%						\item \textbf{Steckenbleiben in einem Gefäß mit engerer Gefäßlichtung}
-%						\item \textbf{Gefäßverschluss}
-%					\end{itemize}
-%			\item \textbf{Einteilung}
-%				\begin{itemize}
-%					\item \textbf{nach der Wegrichtung des Embolus in der Strombahn}
-%					\item \textbf{nach der benützten Gefäßstrecke (arteriell, venös)}
-%					\item \textbf{nach der Art des verschleppten Materials}
-%				\end{itemize}
-%			\item \textbf{Einteilung nach der benützten Gefäßstrecke}
-%				\begin{itemize}
-%					\item \textbf{arterielle Embolie in den Körperkreislauf:}
-%						\begin{itemize}
-%							\item \textbf{Quellen der Embolie: Lungenvenen, linker Vorhof, Mitralklappe, linker Ventrikel, Aortenklappe, Aorta}
-%							\item \textbf{häufigste Zielorgane der Embolie: Gehirnarterien, Bauchraumarterien, Arterien der unteren Extremität}
-%						\end{itemize}
-%					\item \textbf{venöse Embolie in den Lungenkreislauf:}
-%						\begin{itemize}
-%							\item \textbf{Quellen der Embolie: tiefe Venen der unteren Extremität, Venen des kleinen Beckens, Vena cava inferior, rechter Vorhof}
-%							\item \textbf{Zielorgan: Lunge}
-%						\end{itemize}
-%				\end{itemize}
-%		\end{itemize}
-%	\subsection{Arterioskelrose}
-%		\begin{itemize}
-%			\item \textbf{WHO-Definition}
-%				\begin{itemize}
-%					\item  \textbf{chronisch fortschreitende Arterienerkrankung mit \emph{Wandverhärtung} („Sklerose“) und Einengung der Arterienlichtung durch herdförmige Anhäufung von Fettsubstanzen, Kohlehydraten, Blutbestandteilen, Bindegewebe und Calcium (Plaque)}
-%				\end{itemize}
-%			\item Ursachen
-%				\begin{itemize}
-%					\item Cholesterin\\
-%					' \textbf{H}igh \textbf{D}ensity \textbf{L}iporotein, schützender Effekt\\
-%					' \textbf{L}ow \textbf{D}ensity \textbf{L}ipoprotein, schlechte Cholesterin
-%				\end{itemize}
-%			\item \textbf{keine Rückbildung, Beginn oft schon in früher Jugend}
-%			\item \textbf{Lokalisation}
-%				\begin{itemize}
-%					\item \textbf{größere elastische und muskuläre Arterien (Aorta, A.carotis, A.iliaca, Hirnarterien, Koronararterien)}
-%					\item[$\rightarrow$] Beurteilung der Koronaraterien durch Karotis Ultraschall gibt gute Auskunft über Wandzustand
-%				\end{itemize}
-%			\item \textbf{Folgen der Atherosklerose}
-%				\begin{itemize}
-%						\item \textbf{chron. Lichtungseinengung = chron. Stenose} $\rightarrow$ Thrombosbildung
-%							\begin{itemize}
-%								\item \textbf{Ruhedurchblutung ausreichend, bei Mehrforderung $\rightarrow$ Mangeldurchblutung}
-%							\end{itemize}
-%						\item \textbf{akute Lichtungseinengung = akute Stenose $\rightarrow$ Infarkt}
-%						\item \textbf{Lichtungsverschluss durch Thrombose oder Embolie $\rightarrow$ Infarkt}
-%						\item \textbf{Wandschwäche $\rightarrow$ Ausweitung = "Aneurysma"}
-%					\end{itemize}
-%			\item \textbf{häufige Lokalisation}
-%				\begin{itemize}
-%					\item \textbf{Aorta (v.a. Bauchaorta)}
-%					\item \textbf{Gehirn}
-%						\begin{itemize}
-%							\item \textbf{Einengung $\rightarrow$ Durchblutungsstörung = "vaskuläre Demenz"}
-%							\item \textbf{Verschluss = Infarkt =} Apoplex = \textbf{$\dots$}
-%						\end{itemize}
-%					\item \textbf{Herz: KHK}
-%						\begin{itemize}
-%							\item \textbf{Einengung = Angina pectoris}
-%							\item \textbf{Verschluss = Myokardinfarkt}
-%						\end{itemize}
-%					\item \textbf{Niere}
-%						\begin{itemize}
-%							\item \textbf{Einengung = Durchblutungsstörung $\rightarrow$ Schrumpfniere}
-%							\item \textbf{Verschluss = Niereninfarkt}
-%						\end{itemize}
-%					\item \textbf{Beine}
-%						\begin{itemize}
-%							\item \textbf{Einengung = Durchblutungsstörung $\rightarrow$ "Schaufensterkrankheit" = pAVK}
-%							\item \textbf{Verschluss = Infarkt}
-%						\end{itemize}
-%				\end{itemize}
-%			\item \textbf{Risikofaktoren}
-%				\begin{itemize}
-%					\item \textbf{Klasse 1}	
-%						\begin{itemize}
-%							\item \textbf{Hyperlipidämie (Cholesterin – LDL, Triglyceride)}
-%							\item \textbf{Hypertonie} schädigt Gefäße $\Leftrightarrow$ steigert Hypertonie
-%							\item \textbf{Diabetes mellitus}
-%							\item \textbf{Zigarettenkonsum}
-%						\end{itemize}
-%					\item \textbf{Klasse 2}
-%						\begin{itemize}
-%							\item \textbf{Adipositas}
-%							\item \textbf{Bewegungsmangel}
-%							\item \textbf{Stress}\\
-%								' Eustress, befähigender Stress\\
-%								' Dysstress, schädigender Dauerstress
-%						\end{itemize}
-%					\item \textbf{unbeeinflussbare Faktoren}
-%						\begin{itemize}
-%							\item \textbf{Lebensalter}, erste Welt immer jünger
-%							\item \textbf{Geschlecht (Östrogenschutz!)}
-%							\item \textbf{familiäre Häufung, genetische Faktoren}
-%						\end{itemize}
-%				\end{itemize}
-%			\end{itemize}
+\section{Kreislauf- und Gefäßerkrankungen}
+	\subsection{Übersicht}
+		\begin{itemize}
+			\item \textbf{Ödem}
+			\item \textbf{Thrombose}
+			\item \textbf{Embolie}
+			\item \textbf{Pahtologie der Arterien}
+				\begin{itemize}
+					\item \textbf{Arteriosklerose}
+					\item \textbf{Aneurysma}
+					\item \textbf{pAVK}
+					\item \textbf{akuter Arterienverschluss}
+				\end{itemize}
+			\item \textbf{Pahtologie der Venen}
+				\begin{itemize}
+					\item \textbf{Varizen}
+					\item \textbf{Thrombophlebitis, Phlebothrombose/TVT}
+				\end{itemize}
+			\item \textbf{arterielle Hypertonie}
+			\item \textbf{Schock}
+		\end{itemize}
+	\subsection{Ödem}
+		\begin{itemize}
+			\item \textbf{Definition}
+				\begin{itemize}
+					\item \textbf{Flüssigkeitsansammlung in einem Gewebe}
+				\end{itemize}
+			\item \textbf{Einteilung (Übersicht)}
+				\begin{itemize}
+					\item \textbf{Lymphstauungsödem}
+					\item \textbf{Blutstauungsödem}
+					\item \textbf{Proteinmangelödem (=onkotische Ödeme)}
+					\item \textbf{renale Ödeme}
+					\item \textbf{kapillartoxische Ödeme}
+				\end{itemize}
+			\item \textbf{Lymphstauungsödem}
+				\begin{itemize}
+					\item \textbf{Blockade größerer Lymphgefäße bzw. Lymphknoten}
+					\item \textbf{Ursachen: Tumorerkrankungen und –behandlung, Infektionen}, Entzündung (durch Filarien $\rightarrow$ Elephantiasis)\\
+						früher radikale Lyhmphknotenentfernen zB. bei Mammacarzinom
+				\end{itemize}
+			\item \textbf{Blutstauungsödem}
+				\begin{itemize}
+					\item \textbf{Ursachen}
+						\begin{itemize}
+							\item \textbf{örtliche Behinderung des Blutabflusses}\\
+								' \textbf{venös (Beinvenen)}
+							\item \textbf{kardial bedingte Abflussbehinderung: Herzinsuffizienz (siehe Herzerkrankungen)}
+						\end{itemize}
+				\end{itemize}
+			\item \textbf{Eiweißmangelödeme}
+				\begin{itemize}
+					\item \textbf{Ursachen}
+						\begin{itemize}
+							\item Proteinmangel $\rightarrow$ Aszites (Abgemagert, aber dicker Bauch)
+							\item \textbf{Hunger, Fehlernährung, Eiweißverlust (renal), Eiweißsynthesestörung}
+						\end{itemize}
+				\end{itemize}
+			\item \textbf{renale Ödeme} $\rightarrow$ Augenliedödem
+			\item \textbf{Ödeme durch Schädigung der Kapillarwand}\\
+				zB.: Insektengift
+		\end{itemize}
+	\subsection{Thrombose}
+		\begin{itemize}
+			\item \textbf{Definition}
+				\begin{itemize}
+					\item \textbf{Bildung eines Blutgerinnsels (Thrombus) in einer Vene oder Arterie}, Gerinnungskaskade
+					\item solten sich nach Heilung wieder auflösen
+					\item \textbf{intravitale, intravasale Blutgerinnung}
+					\item \textbf{Folge: teilweise oder vollständige Unterbrechung des Blutflusses}
+				\end{itemize}
+			\item \textbf{Entstehung}
+					\begin{itemize}
+						\item \textbf{Virchow'sche Trias}
+							\begin{itemize}
+								\item \textbf{Gefäßwandfaktor}, Form der Gefäßwand
+								\item \textbf{Zirkulationsfaktor}, zu langsame Zirkulation
+								\item veränderte Blutzusammensetzung, \textbf{Humoralfaktor}, zu viel Zellen, od. Flüssigkeit
+							\end{itemize}
+					\end{itemize}
+		\end{itemize}
+	\subsection{Embolie}
+		\begin{itemize}
+			\item \textbf{Definition}
+				\begin{itemize}
+					\item \textbf{Verschleppung von geformten Elementen (= Embolus, zB } (Thrombus, selten Luft)\textbf{ auf dem Blut - oder Lymphweg}
+				\end{itemize}
+			\item \textbf{Folge}
+					\begin{itemize}
+						\item \textbf{Steckenbleiben in einem Gefäß mit engerer Gefäßlichtung}
+						\item \textbf{Gefäßverschluss}
+					\end{itemize}
+			\item \textbf{Einteilung}
+				\begin{itemize}
+					\item \textbf{nach der Wegrichtung des Embolus in der Strombahn}
+					\item \textbf{nach der benützten Gefäßstrecke (arteriell, venös)}
+					\item \textbf{nach der Art des verschleppten Materials}
+				\end{itemize}
+			\item \textbf{Einteilung nach der benützten Gefäßstrecke}
+				\begin{itemize}
+					\item \textbf{arterielle Embolie in den Körperkreislauf:}
+						\begin{itemize}
+							\item \textbf{Quellen der Embolie: Lungenvenen, linker Vorhof, Mitralklappe, linker Ventrikel, Aortenklappe, Aorta}
+							\item \textbf{häufigste Zielorgane der Embolie: Gehirnarterien, Bauchraumarterien, Arterien der unteren Extremität}
+						\end{itemize}
+					\item \textbf{venöse Embolie in den Lungenkreislauf:}
+						\begin{itemize}
+							\item \textbf{Quellen der Embolie: tiefe Venen der unteren Extremität, Venen des kleinen Beckens, Vena cava inferior, rechter Vorhof}
+							\item \textbf{Zielorgan: Lunge}
+						\end{itemize}
+				\end{itemize}
+		\end{itemize}
+	\subsection{Arterioskelrose}
+		\begin{itemize}
+			\item \textbf{WHO-Definition}
+				\begin{itemize}
+					\item  \textbf{chronisch fortschreitende Arterienerkrankung mit \emph{Wandverhärtung} („Sklerose“) und Einengung der Arterienlichtung durch herdförmige Anhäufung von Fettsubstanzen, Kohlehydraten, Blutbestandteilen, Bindegewebe und Calcium (Plaque)}
+				\end{itemize}
+			\item Ursachen
+				\begin{itemize}
+					\item Cholesterin\\
+					' \textbf{H}igh \textbf{D}ensity \textbf{L}iporotein, schützender Effekt\\
+					' \textbf{L}ow \textbf{D}ensity \textbf{L}ipoprotein, schlechte Cholesterin
+				\end{itemize}
+			\item \textbf{keine Rückbildung, Beginn oft schon in früher Jugend}
+			\item \textbf{Lokalisation}
+				\begin{itemize}
+					\item \textbf{größere elastische und muskuläre Arterien (Aorta, A.carotis, A.iliaca, Hirnarterien, Koronararterien)}
+					\item[$\rightarrow$] Beurteilung der Koronaraterien durch Karotis Ultraschall gibt gute Auskunft über Wandzustand
+				\end{itemize}
+			\item \textbf{Folgen der Atherosklerose}
+				\begin{itemize}
+						\item \textbf{chron. Lichtungseinengung = chron. Stenose} $\rightarrow$ Thrombosbildung
+							\begin{itemize}
+								\item \textbf{Ruhedurchblutung ausreichend, bei Mehrforderung $\rightarrow$ Mangeldurchblutung}
+							\end{itemize}
+						\item \textbf{akute Lichtungseinengung = akute Stenose $\rightarrow$ Infarkt}
+						\item \textbf{Lichtungsverschluss durch Thrombose oder Embolie $\rightarrow$ Infarkt}
+						\item \textbf{Wandschwäche $\rightarrow$ Ausweitung = "Aneurysma"}
+					\end{itemize}
+			\item \textbf{häufige Lokalisation}
+				\begin{itemize}
+					\item \textbf{Aorta (v.a. Bauchaorta)}
+					\item \textbf{Gehirn}
+						\begin{itemize}
+							\item \textbf{Einengung $\rightarrow$ Durchblutungsstörung = "vaskuläre Demenz"}
+							\item \textbf{Verschluss = Infarkt =} Apoplex = \textbf{$\dots$}
+						\end{itemize}
+					\item \textbf{Herz: KHK}
+						\begin{itemize}
+							\item \textbf{Einengung = Angina pectoris}
+							\item \textbf{Verschluss = Myokardinfarkt}
+						\end{itemize}
+					\item \textbf{Niere}
+						\begin{itemize}
+							\item \textbf{Einengung = Durchblutungsstörung $\rightarrow$ Schrumpfniere}
+							\item \textbf{Verschluss = Niereninfarkt}
+						\end{itemize}
+					\item \textbf{Beine}
+						\begin{itemize}
+							\item \textbf{Einengung = Durchblutungsstörung $\rightarrow$ "Schaufensterkrankheit" = pAVK}
+							\item \textbf{Verschluss = Infarkt}
+						\end{itemize}
+				\end{itemize}
+			\item \textbf{Risikofaktoren}
+				\begin{itemize}
+					\item \textbf{Klasse 1}	
+						\begin{itemize}
+							\item \textbf{Hyperlipidämie (Cholesterin – LDL, Triglyceride)}
+							\item \textbf{Hypertonie} schädigt Gefäße $\Leftrightarrow$ steigert Hypertonie
+							\item \textbf{Diabetes mellitus}
+							\item \textbf{Zigarettenkonsum}
+						\end{itemize}
+					\item \textbf{Klasse 2}
+						\begin{itemize}
+							\item \textbf{Adipositas}
+							\item \textbf{Bewegungsmangel}
+							\item \textbf{Stress}\\
+								' Eustress, befähigender Stress\\
+								' Dysstress, schädigender Dauerstress
+						\end{itemize}
+					\item \textbf{unbeeinflussbare Faktoren}
+						\begin{itemize}
+							\item \textbf{Lebensalter}, erste Welt immer jünger
+							\item \textbf{Geschlecht (Östrogenschutz!)}
+							\item \textbf{familiäre Häufung, genetische Faktoren}
+						\end{itemize}
+				\end{itemize}
+			\end{itemize}
 	\subsection{Aneurysma}
 		\begin{itemize}
 			\item \textbf{Definition}
@@ -277,9 +276,10 @@
 		\end{itemize}
 	\subsection{Pathologie der Venen Varizen}
 		\begin{itemize}
-			\item \textbf{Varicosis}
+			\item \textbf{Varicosis} = Krampfadernvarizen
 				\begin{itemize}
 					\item \textbf{Ausbuchtungen einer geschädigten Venenwand}
+					\item geschlängelter Verlauf mit knotigen Ausbuchtungen
 				\end{itemize}
 			\item \textbf{Ursache}
 				\begin{itemize}
@@ -291,12 +291,12 @@
 						\end{itemize}
 					\item \textbf{Blutstauung und Druckerhöhung}
 						\begin{itemize}
-							\item \textbf{kardial bedingte venöse Stauung}
-							\item \textbf{langes Stitzen btw. Stehen}
-							\item \textbf{Adipositas}
-							\item \textbf{Abflussbehinderungen}
+							\item \textbf{kardial bedingte venöse Stauung} duch Herzinsuffizienz
+							\item \textbf{langes Stitzen btw. Stehen}, mangelnde Muskelpumpe
+							\item \textbf{Adipositas} = Fetleibigkeit
+							\item \textbf{Abflussbehinderungen} duch Venenentzündungen, Thrombosen
 						\end{itemize}
-			\end{itemize}
+				\end{itemize}
 		\end{itemize}
 	\subsection{Varizen}
 		\begin{itemize}
@@ -306,12 +306,32 @@
 					\item \textbf{Thrombose und Embolie}
 					\item \textbf{Thrombophlebitis / Phlebothrombose}
 					\item \textbf{Ruptur mit Blutung (Ösophagus!)}
+						\begin{itemize}
+							\item Ursache und Einschub Leberzirrhose
+							\item Ursache:Leberzirrhose (knotiger Umbau der Leber) (Hepatitis, Alkohol, Gifte, $\dots$)
+							\item Blutmenge d. Vena Porta kann nicht mehr aufgearbeitet werden $\rightarrow$ Staut sich zurück $\rightarrow$ Hypertonie
+							\item Blutmangel in V.cava inferior 
+							\item Versuch über Umwege Blut ins Herz zu bekommen
+							\item ein solcher Umweg Ösophagus Venen 
+							\item nicht für solchen Druck gebaut $\rightarrow$ Ösophagusvarizen
+							\item weiterer Umweg: oberflächliche Bauchvenen, gut ersichtlich, Caput medusae
+							\item Hämoglobin (Erys) $\rightarrow$ Bilirubin (Gelbsucht=Ikterus $\rightarrow$ Farbstoff Harn + Stuhl | prähepatischer, hepatischer, posthepatischer Ikterus - Problem vor, in, nach d. Leber
+						\end{itemize}
 				\end{itemize}
 			\item \textbf{mögliche Spätfolgen an den Beinen}
 				\begin{itemize}
-					\item \textbf{Ulcus cruris}
+					\item \textbf{Ulcus cruris} "offene Bein" durch Verletzung
+						\begin{itemize}
+							\item venöser Ulcus cruris: Abtransportproblem (Unterschenkel)
+							\item ateriell: perifäre Arterielle verschlussKrankheit, Diabetes, Mangelversorgung
+						\end{itemize}
 					\item \textbf{postthrombotisches Syndrom (chronisch-venöse Insuffizienz)}
-			\end{itemize}
+				\end{itemize}
+			\item Behandlung
+				\begin{itemize}
+					\item Verödung kleinerer Gefäße
+					\item Entahme größerer Gefäße (Venenstripping)
+				\end{itemize}
 		\end{itemize}
 	\subsection{entzündliche venöse Gefäßerkrankungen}
 		\begin{itemize}
@@ -335,8 +355,10 @@
 				\end{itemize}
 			\item \textbf{Phlebothrombose}
 				\begin{itemize}
+					\item \textbf{T}ieve \textbf{V}enen \textbf{T}hrombose
 					\item \textbf{tiefe Venen betroffen}
-					\item \textbf{Therapie: Bettruhe, Antikoagulation, Thrombolyse oder Thrombektomie}
+					\item Thrombos i.d. Beinvenen $\rightarrow$ V. femoralis $\rightarrow$ V. cava inf. $\rightarrow$ r.Herz $\rightarrow$ Lunge $\Rightarrow$ Thromboembolus
+					\item \textbf{Therapie: Bettruhe, Antikoagulation (koagulation = Gerinnung), Thrombolyse oder Thrombektomie}
 				\end{itemize}
 			\item \textbf{Diagnostik}
 				\begin{itemize}
@@ -344,7 +366,7 @@
 					\item \textbf{Gefäßdarstellung}
 						\begin{itemize}
 							\item \textbf{Doppler-Sonographie}
-							\item \textbf{Phlebographie}
+							\item \textbf{Phlebographie} (Kontrastmittel+Röntgen)
 						\end{itemize}
 				\end{itemize}
 		\end{itemize}
@@ -368,15 +390,15 @@
 					\item \textbf{WHO: über 140/90mmHg$\dots$}
 					\item \textbf{Klassifikation nach dt. Hochdruckliga}
 						\begin{itemize}
-							\item \textbf{optimal}
-							\item \textbf{normal}
-							\item \textbf{hochnormal (Grenzwerthypertonie)}
+							\item \textbf{optimal} 120/80
+							\item \textbf{normal} 130/85
+							\item \textbf{hochnormal (Grenzwerthypertonie)} 130-139/85-89
 						\end{itemize}
 					\item \textbf{pathologische Werte (Hypertonie) ab}
 						\begin{itemize}
-							\item \textbf{Stufe 1 (leicht)}
-							\item \textbf{Stufe 2 (mittelschwer)}
-							\item \textbf{Stufe 3 (schwer)}
+							\item \textbf{Stufe 1 (leicht)} 140-159/90-99
+							\item \textbf{Stufe 2 (mittelschwer)} 160-179/100-109
+							\item \textbf{Stufe 3 (schwer)} 180/110
 						\end{itemize}
 					\item \textbf{Einteilung nach der Ätiologie in}
 						\begin{itemize}
@@ -388,13 +410,13 @@
 								$\mbox{}\qquad\:$ \textbf{Sympathikus, RAAS, renale Faktoren, vaskuläre Faktoren, Umweltfaktoren,}\linebreak
 								$\mbox{}\qquad\:$ \textbf{Adipositas,$\dots$}
 							\item \textbf{sekundäre (= organgebundene) Hypertonie}\\
-								' \textbf{renale Hypertonie, endokrine Hypertonie, kardiovaskuläre Hypertonie,$\dots$}
+								' \textbf{renale Hypertonie, endokrine Hypertonie, kardiovaskuläre Hypertonie, $\dots$}
 						\end{itemize}
 					\item \textbf{Folgen der chronischen Hypertonie}
 						\begin{itemize}
 							\item \textbf{kardiale Schäden}
 								\begin{itemize}
-									\item \textbf{Linksherzhypertrophie, LinksherzinsuffizienzLinksherzhypertrophie, Linksherzinsuffizienz}
+									\item \textbf{Linksherzhypertrophie, Linksherzinsuffizienz}
 								\end{itemize}
 							\item \textbf{frühzeitige Arteriosklerose}
 								\begin{itemize}
@@ -415,15 +437,15 @@
 						\end{itemize}
 				\end{itemize}
 		\end{itemize}
-	\subsection{Hypertonie-TH}
+	\subsection{Hypertonie-Therapie}
 		\begin{itemize}
-			\item \textbf{Diuretika}
-			\item \textbf{$\beta$-Blocker}
+			\item \textbf{Diuretika} ausschwemmende Medikamente
+			\item \textbf{$\beta$-Blocker} Rezeptoren im Sympatikus die den Druck erhöhen
 			\item \textbf{Kalzium-Antagonisten}
 			\item \textbf{ACE-Hemmer}
-			\item \textbf{Sympathikolytika}
+			\item \textbf{Sympathikolytika} direkte Hemmung d. Sympatikus
 			\item \textbf{Angiotensin II-Rezeptorantagonisten}
-			\item \textbf{arterioläre Vasodilatatoren}
+			\item \textbf{arterioläre Vasodilatatoren} Weitstellung d. Gefäße
 		\end{itemize}
 	\subsection{Schock}
 		\begin{itemize}
@@ -437,7 +459,11 @@
 						\begin{itemize}
 							\item \textbf{Blutverlust: nach außen oder nach innen}
 							\item \textbf{Blut versackt in erweiterten Kapillaren und Venolen}
-							\item \textbf{Flüssigkeitsverlust nach außen oder nach innen (Plasma)}
+							\item \textbf{Flüssigkeitsverlust nach außen oder nach innen (Plasma)} 
+								\begin{itemize}
+									\item außen: massiver Durchfall, Erbrechen
+									\item innen: durchlässige Gefäße
+								\end{itemize}
 						\end{itemize}
 					\item \textbf{kardial: ungenügendes Auswurfvolumen des Herzens}
 				\end{itemize}
@@ -477,17 +503,17 @@
 					\item \textbf{Angina pectoris}
 					\item \textbf{Myokardinfarkt}
 				\end{itemize}
-			\item \textbf{Klappenvitien}
+			\item \textbf{Klappenvitien} = Klappenfehler
 		\end{itemize}
 	\subsection{Herzerkrankungen}
 		\subsubsection{Grundformen der kardialen Überlastung}
 			\begin{itemize}
 				\item \textbf{chronische Druckbelastung}
 				\item \textbf{chronische Volumenbelastung}
-				\item \textbf{Folge: Adaptation der Ventrikel  $\rightarrow$  Hypertrophie, ab kritischem Herzgewicht: Hyperplasie  $\rightarrow$ Ventrikeldilatation  $\rightarrow$  enddiastolisches Volumen $\uparrow$ $\rightarrow$  zunehmende Herzinsuffizienz und Koronarinsuffizienz (durch Missverhältnis O$_2$-Bedarf und  O$_2$-Angebot) }
+				\item \textbf{Folge: Adaptation der Ventrikel (Dickenzunahme d. Myokard)  $\rightarrow$  Hypertrophie, ab kritischem Herzgewicht: Hyperplasie  $\rightarrow$ Ventrikeldilatation  $\rightarrow$  enddiastolisches Volumen $\uparrow$ $\rightarrow$  zunehmende Herzinsuffizienz und Koronarinsuffizienz (durch Missverhältnis O$_2$-Bedarf und  O$_2$-Angebot) }
 			\end{itemize}
 	\subsection{Herzinsuffizienz}
-		\subsubsection{Def}
+		\subsubsection{Definition}
 			\begin{itemize}
 				\item \textbf{durch unzureichendes syst. Auswurfvolumen oder mangelhafte ventrikuläre Füllung $\rightarrow$}
 				\item \textbf{Missverhältnis zwischen Pumpleistung (geförderter Auswurfmenge) des Herzens und Blutbedarf der Körpergewebe}
@@ -496,7 +522,7 @@
 			\begin{itemize}
 				\item \textbf{akut oder chronisch}
 				\item \textbf{den li, den re, oder beide Ventrikel betreffend}
-				\item \textbf{in klinische Schweregrade nach der NYHA}
+				\item \textbf{in klinische Schwergerade nach der NYHA} (New York Heart Assosiation
 			\end{itemize}
 		\subsubsection{Ätiologie}
 			\begin{itemize}
@@ -508,15 +534,15 @@
 			\end{itemize}
 		\subsubsection{Klinik}
 			\begin{itemize}
-				\item \textbf{"Rückwertsversagen": Blutstauung vor der infuffizienten Herzhälfte}
-				\item \textbf{"Vorwärtsversagen":Ö nachlassende Pumpfunktion $\rightarrow$ Unterversorgung der Organe mit O$_2$ und Nährstoffen}
+				\item \textbf{"Rückwertsversagen": Blutstauung vor der insuffizienten Herzhälfte}
+				\item \textbf{"Vorwärtsversagen": nachlassende Pumpfunktion $\rightarrow$ Unterversorgung der Organe mit O$_2$ und Nährstoffen}
 			\end{itemize}
 		\subsubsection{Leitsymptome Linksherzinsuffizienz}
 			\begin{itemize}
 				\item \textbf{Rückwärtsversagen}
 					\begin{itemize}
-						\item \textbf{Lungenstauung, Dyspnoe, Stauungsbronchitis, Lungenödem, feuchte Rasselgeräusche über der Lunge, Zyanose}
-						\item \textbf{chronisch: Rechtsherzüberlastung mit Hypertrophie, "Corpulmonale"}
+						\item \textbf{Lungenstauung, Dyspnoe} (Atemnot)\textbf{, Stauungsbronchitis, Lungenödem, feuchte Rasselgeräusche über der Lunge, Zyanose} (Blaufärbung vor allem der Lippen)
+						\item \textbf{chronisch: $\Rightarrow$ Rechtsherzüberlastung mit Hypertrophie, "Corpulmonale"} Herz Problem das der Lunge zugrunde liegt
 					\end{itemize}
 				\item \textbf{akutes Vorwärtsversagen: kardiogener Schock}
 				\item \textbf{morphologisch: Linksherdilitation mit runbogiger Herzspitze}
@@ -532,20 +558,22 @@
 		\subsubsection{Begleitsymptome}
 			\begin{itemize}
 				\item \textbf{Schwäche, Müdigkeit, Leistungsabfall}
-				\item \textbf{Nykturie}
+				\item \textbf{Nykturie} = Vermehrte Urinieren in der Nacht
 				\item \textbf{tachykarde Herztythmusstörungen (Vorhofflimmern)}
 			\end{itemize}
-		\subsubsection{"Globalinsuffizienz"}		
-		\subsubsection{Diagnostik}
-			\begin{itemize}
-				\item \textbf{Anamnese}
-				\item \textbf{EKG, Herz-Ultraschall (Echokardiographie)}
-				\item \textbf{bildgebende Diagnostik: MRT, CT, Thorax-Röntgen}
-			\end{itemize}
-		\subsubsection{pharmakologische Therapie}
-			\begin{itemize}
-				\item \textbf{Herz-Belastung senken: z.B. RR-Senkung}
-				\item \textbf{Steigerung der Herzkraft und Auswurfleistung}
+		\subsubsection{"Globalinsuffizienz"}
+			\begin{itemize}	
+				\item \textbf{Diagnostik}
+					\begin{itemize}
+						\item \textbf{Anamnese} (Standartprogramm bei der Aufnahme: Abhören, BP, etc.)
+						\item \textbf{EKG, Herz-Ultraschall (Echokardiographie)}
+						\item \textbf{bildgebende Diagnostik: MRT, CT, Thorax-Röntgen}
+					\end{itemize}
+				\item \textbf{pharmakologische Therapie}
+					\begin{itemize}
+						\item \textbf{Herz-Belastung senken: z.B. RR-Senkung}
+						\item \textbf{Steigerung der Herzkraft und Auswurfleistung}
+					\end{itemize}
 			\end{itemize}
 	\subsection{Herzrhythmusstörungen}
 		\subsubsection{Definition}
@@ -561,7 +589,7 @@
 						\item \textbf{bradykarde Rhythmusstörungen (<60/min)}
 						\item \textbf{tachykarde Rhythmusstörungen (>100/min)}
 							\begin{itemize}
-								\item \textbf{SA-Block}
+								\item \textbf{SA-Block} (Sino-Atrialer Block)
 								\item \textbf{AV-Block (I. - III.Grades}
 								\item \textbf{Extrasystolen}
 								\item \textbf{Vorhofflattern, Vorhofflimmern}
@@ -615,6 +643,7 @@
 						\item \textbf{Klappeninsuffizienz}
 						\item \textbf{septischer Schock}
 					\end{itemize}
+				\item Therapie: Antibiotika Infusionen
 			\end{itemize}
 	\subsection{KHK}
 		\subsubsection{Definition}
@@ -623,10 +652,10 @@
 				\item \textbf{dadurch: Missverhältnis zwischen O$_2$-Bedarf des Myokards und O$_2$-Angebot}
 				\item \textbf{vier Koronaraterienäste}
 					\begin{itemize}
-						\item \textbf{RCA}
-						\item \textbf{LCA}
-						\item \textbf{RIVA}
-						\item \textbf{RCX}
+						\item \textbf{RCA} Right Coronary Artery
+						\item \textbf{LCA} Left Coronary Artery
+						\item \textbf{RIVA} Ramus 
+						\item \textbf{RCX} Ramus Circum Flexus
 					\end{itemize}
 			\end{itemize}
 		\subsubsection{Ätiologie}
@@ -639,8 +668,11 @@
 	\subsection{Angina pectoris}
 		\subsubsection{Letisymtom}
 			\begin{itemize}
-				\item \textbf{retrosternaler oder linksthorakaler Schmerz/Druckgefühl}
+				\item In Ruhe keine Symptome (stabile A.p.)
+				\item \textbf{retrosternaler oder linksthorakaler Schmerz/Druckgefühl} bei ansonst ungewohnter Anstrengung
+				\item Symptome auch in Ruhe bei instabiler A.p.
 				\item \textbf{Ausstrahlung in $\dots$}
+				\item Symptomatisch nicht von Infarkt zu unterscheiden
 			\end{itemize}
 		\subsubsection{Einteilung}
 			\begin{itemize}
@@ -651,6 +683,11 @@
 			\begin{itemize}
 				\item \textbf{Anamnese}
 				\item \textbf{Labor: herzspezifische Enzyme}
+					\begin{itemize}
+						\item CK
+						\item GOT
+						\item Tropamin
+					\end{itemize}
 				\item \textbf{EKG}
 				\item \textbf{Bildgebung}
 				\item \textbf{Herzkatheteruntersuchung}
@@ -675,7 +712,7 @@
 					\end{itemize}
 				\item \textbf{nach Infarkttiefe in der Kammerwand}
 					\begin{itemize}
-						\item \textbf{Innenschichtinfrarkt, transmuraler Infarkt}
+						\item \textbf{Innenschichtinfrarkt, transmuraler Infarkt} = durch die ganze Wand
 					\end{itemize}
 				\item \textbf{kaum Regeneration $\rightarrow$ Belastung des restlichen Gewebes $\rightarrow$ kompensatorische Hypertrophie}
 			\end{itemize}
@@ -691,7 +728,11 @@
 				\item \textbf{Diagnosekriterien (WHO)}
 					\begin{itemize}
 						\item \textbf{akuter Brustschmerz > 20 min}
-						\item \textbf{typische EKG-Veränderungen (STEMI, NON-STEMI)}
+						\item \textbf{typische EKG-Veränderungen}
+							\begin{itemize}
+								\item \textbf{STEMI} ST Elevation Myocard Infarkt
+								\item \textbf{NON-STEMI}
+							\end{itemize}
 						\item \textbf{erhöhte Serumwerte der Herzmarker-Enzyme}
 					\end{itemize}
 				\item \textbf{Echokardiographie}
@@ -699,14 +740,16 @@
 			\end{itemize}
 		\subsubsection{Therapie}
 			\begin{itemize}
-			\item \textbf{MONA: Morphium, O$_2$ Nitrate, ASS}
-			\item \textbf{Blutverdünnung}
-			\item \textbf{frühestmögliche Reperfusion = Blutfluss wiederherstellen}
-				\begin{itemize}
-					\item \textbf{Auflösen des Gerinnsels mittels (Thrombolyse)}
-					\item \textbf{PTCA}
-					\item \textbf{Bypass-OP}
-				\end{itemize}
+				\item \textbf{MONA: Morphium, O$_2$ Nitrate, ASS} = Acetylsalicylsäure
+				\item \textbf{"Blutverdünnung"}
+				\item \textbf{frühestmögliche Reperfusion = Blutfluss wiederherstellen}
+					\begin{itemize}
+						\item \textbf{Auflösen des Gerinnsels mittels (Thrombolyse)}
+						\item \textbf{PTCA} Perkutane transluminale koronare Angioplastie
+						\item Ballondilataion
+						\item Stent Implantation
+						\item \textbf{Bypass-OP} Gefäßersatzstück (Eigen)Implantat wenn obige kein Erfolg haben
+					\end{itemize}
 			\end{itemize}
 		\subsubsection{mögliche Komplikationen}
 			\begin{itemize}
@@ -719,10 +762,10 @@
 		\subsubsection{Einteilung}
 			\begin{itemize}
 				\item \textbf{angeboren oder erworben (Endokarditis!)}
-				\item \textbf{Klaüüenstenose oder Klappeninsuffizienz}
+				\item \textbf{Klappenstenose oder Klappeninsuffizienz}
 					\begin{itemize}
-						\item \textbf{Mitralklappenstenose}
-						\item \textbf{Mitralklappeninsuffizienz}
+						\item \textbf{Mitralklappenstenose} verengte Klappe
+						\item \textbf{Mitralklappeninsuffizienz} zu weite Klappe
 						\item \textbf{Aortenklappenstenose}
 						\item \textbf{Aortenklappeninsuffizienz} 
 					\end{itemize}
