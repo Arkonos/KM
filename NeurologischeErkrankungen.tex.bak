@@ -162,7 +162,7 @@
 					\end{itemize}
 			\end{itemize}
 	\end{itemize}
-	
+\pagebreak
 \subsection{Schlaganfall}
 	\begin{itemize}
 		\item \textbf{Folge: Schlaganfall (syn.: Hirnschlag, Hirninfarkt, Apoplex, Apoplexie, apoplektischer Insult, ischämischer Insult, zerebrovaskulärer Insult)}
@@ -182,7 +182,6 @@
 			\begin{itemize}
 				\item \textbf{prolongiertes reversibles ischämisches neurologisches Defizit = akutes zerebrovaskuläres Ereignis, dessen Beeinträchtigung sich innerhalb von 2-3 Wochen vollständig zurückbildet}
 			\end{itemize}
-\pagebreak
 		\item \textbf{Hauptrisikofaktoren}
 			\begin{itemize}
 				\item \textbf{Hypertonie}
@@ -289,7 +288,7 @@
 			\item \textbf{primäre Hirntumore}
 				\begin{itemize}
 					\item \textbf{neuroepithelialem Gewebe}
-					\item \textbf{umgebenden Strukturen}
+					\item \textbf{umgebenden Strukturen} (Bindegewebe, $\dots$)
 					\item \textbf{embryologische versprengten Zellen}
 				\end{itemize}
 			\item \textbf{Gefäßtumore}
@@ -302,6 +301,7 @@
 			\item \textbf{Kopfschmerzen}
 			\item \textbf{erhöhter Hirndruck}
 			\item \textbf{epileptische Anfälle}
+			\item keine (eine Zeit lang)
 		\end{itemize}
 	\subsubsection{Diagnostik}
 		\begin{itemize}
@@ -313,30 +313,30 @@
 				\end{itemize}
 			\item \textbf{Diagnostik}
 				\begin{itemize}
-					\item \textbf{Bildgebung}
-					\item \textbf{Liquorbefund}
-					\item \textbf{ev. Biopsie}
+					\item \textbf{Bildgebung} (Schädel-CT)
+					\item \textbf{Liquorbefund} (Gehirn-Rückenmarksflüssigkeit)
+					\item \textbf{ev. Biopsie} (selten)
 					\item \textbf{Angiographie}
 				\end{itemize}
 		\end{itemize}
 	\subsubsection{Therapie}
 		\begin{itemize}
-			\item \textbf{Totalresektion}
-			\item \textbf{Teilresektion}
+			\item \textbf{Totalresektion} (völlige Entfernung, nicht immer möglich)
+			\item \textbf{Teilresektion} (Teilentfernung)
 			\item \textbf{postoperative Chemo- oder Strahlentherapie}
-			\item \textbf{Kortikosteroide}
-			\item \textbf{Anlage eines Shunts}
+			\item \textbf{Kortikosteroide} (gegen die Schwellung)
+			\item \textbf{Anlage eines Shunts} (liquor Verbinung falls nicht mehr gegeben)
 		\end{itemize}
 	\subsubsection{Hirnmetastasen}
 		\begin{itemize}
 			\item \textbf{meist hämatogen}
 			\item \textbf{Primätumor}
 				\begin{itemize}
-					\item \textbf{bei Männern: Bronchial-Ca}
-					\item \textbf{bei Frauen: Mamma-Ca}
+					\item \textbf{bei Männern: Bronchial-Carzinom}
+					\item \textbf{bei Frauen: Mamma-Carzinom}
 					\item \textbf{Hypernephrom}
 					\item \textbf{Malignes Melanom}
-					\item \textbf{Ca im Gastrointestinaltrakt}
+					\item \textbf{Carzinom im Gastrointestinaltrakt}
 					\item \textbf{maligne Lymphome}
 				\end{itemize}
 		\end{itemize}
@@ -349,15 +349,14 @@
 							\item \textbf{pilozytisches Astrozytom}
 							\item \textbf{Astrozytom WHO-Grad II}
 						\end{itemize}					
-					\item \textbf{Glioblastom (Astrozytom Grad 4)}
+					\item \textbf{Glioblastom (Astrozytom Grad 4)} (hochmaligenste Hirntumor, aussichtslos)
 					\item \textbf{Oligodendrogliom}
 					\item \textbf{Hypophysenadenom}
-					\item \textbf{Meningeom}
-					\item \textbf{Neurinom}
+					\item \textbf{Meningeom} 
+					\item \textbf{Neurinom} (Nervenumhüllungen)
 				\end{itemize}
 		\end{itemize}
-			
-		
+
 \subsection{Polyneuropathien}
 	\begin{itemize}
 		\item \textbf{Erkrankung peripherer Nerven ohne Trauma-Ursache}
