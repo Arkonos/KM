@@ -8,6 +8,7 @@
 				\item \textbf{des Abbaus eines Stoffes im Organismus}
 			\end{itemize}
 	\end{itemize}
+	
 \subsection{Einteilung - Übersicht}
 	\begin{itemize}
 		\item \textbf{Einteilung nach der Ursache}
@@ -40,30 +41,45 @@
 		\item \textbf{Einteilung nach Stoffklassen}
 			\begin{itemize}
 				\item \textbf{Störungen des Fettstoffwechsels}
+					\begin{itemize}
+						\item 
+					\end{itemize}
 				\item \textbf{Störungen des Kohlenhydrat-Stoffwechsels}
+					\begin{itemize}
+						\item Bsp.: Diabetes
+					\end{itemize}
 				\item \textbf{Störungen des Eiweiß- und Aminosäurenstoffwechsels}
 				\item \textbf{Störungen des Nukleinsäure-Stoffwechsels}
 				\item \textbf{$\dots$}
 			\end{itemize}
 	\end{itemize}
-\subsection{Diabetes mellitus}
-	\begin{itemize}
-		\item \textbf{Def. Sammelbegriff verschiedener KH-Stoffwechselstörungen, gekennzeichnet durch Mangel an biologisch wirksamem Insulin}
-			\begin{itemize}
-				\item \textbf{absoluter Mangel (Insulinproduktion vermindert)}
-				\item \textbf{relativer Mangel (nachlassende Insulinwirksamkeit oder Überwiegen der Insulin Antagonisten: Glukagon, Adrenalin und Kortison)}
-			\end{itemize}
-		\item \textbf{Folgen des Insulinmangels (Leitsymptom)}
-			\begin{itemize}
-				\item \textbf{Hyperglykämie (nü, postprandial)}
-				\item \textbf{ab Blutzuckerspiegel $>$ 150 mg \% $\rightarrow$ Glucosurie}
-			\end{itemize}
-	\end{itemize}
+	
+\subsection{Diabetes mellitus} (lat, Diabetese - Durchfluss, mellitus - honigsüß $\rightarrow$ honigsüßer Durchfluss)
+	\subsubsection{Einleitung, Definition}
+		\begin{itemize}
+			\item \textbf{Def.: Sammelbegriff verschiedener Krankheiten-Stoffwechselstörungen, gekennzeichnet durch Mangel an biologisch wirksamem Insulin}
+				\begin{itemize}
+					\item Alle Diabetes Formen: Mangel an Insulinwirkung, entweder Mangel an Insulin, oder Beeinträchtigung der Wirksamkeit
+					\item \textbf{absoluter Mangel (Insulinproduktion vermindert)}
+					\item \textbf{relativer Mangel (nachlassende Insulinwirksamkeit oder Überwiegen der Insulin Antagonisten: Glukagon, Adrenalin und Kortison)}
+					\item Kohlenhydrate, Eiweiße werden gespalten
+					\item Langerhans'sche Inseln produzieren Insulin und Glucagon 
+					\item Zucker schädigt Gefäße, daher schnellstmöglich in die Zellen
+					\item Falls kein Energiebedarf wird Glukose als Glykogen gespeichert (Glykogen $\neq$ Glucagon)
+					\item Insulin senkt Blutzuckerspiegel, Glucagon lässt ihn steigen
+					\item Insulin nicht durch Anderes ersetzbar, Glucosemangel kann kompensiert werden
+				\end{itemize}
+			\item \textbf{Folgen des Insulinmangels (Leitsymptom)}
+				\begin{itemize}
+					\item \textbf{Hyperglykämie (nü, postprandial)}
+					\item \textbf{ab Blutzuckerspiegel $>$ 150 mg \% $\rightarrow$ Glucosurie} (Glucose im Urin)
+				\end{itemize}
+		\end{itemize}
 	\subsubsection{Einteilung des DM}
 		\begin{itemize}
 			\item \textbf{primärer DM}
 				\begin{itemize}
-					\item \textbf{Typ 1 DMT 1 (IDDM)}
+					\item \textbf{Typ 1: DMT 1 (IDDM)} (insulin-dependent diabetes mellitus)
 						\begin{itemize}
 							\item \textbf{Insulinabhängig}
 							\item \textbf{ca. 10\% aller DM}
@@ -80,14 +96,15 @@
 						\begin{itemize}
 							\item \textbf{zunächst nicht insulinabhängig}
 							\item \textbf{ca. 90\% aller DM}
-							\item \textbf{früher "Altersdiabetes"}
-							\item \textbf{Störung der B-Zellen (anfangs Hyperinsulinämie, Down-Regulation der Rezeptoren, Sekretionsstarre) und Insulinresistenz der Muskel-und Fettzellen}
+							\item \textbf{früher "Altersdiabetes"} (Altersgrenzen verschwimmt aber)
+							\item \textbf{Störung der B-Zellen (anfangs Hyperinsulinämie, Down-Regulation der Rezeptoren}(nachlassende Wirkung)\textbf{, Sekretionsstarre) und Insulinresistenz der Muskel-und Fettzellen}
 							\item \textbf{Ätiologie}
 								\begin{itemize}
 									\item \textbf{genetische Disposition der Insulinresistenz (deutliche familiäre Häufung)}
 									\item \textbf{erworbene Insulinresistenz - Wohlstandserkrankung (Lebensweise!), Fettstoffwechselstörung}
-									\item \textbf{metabolisches Syndrom:$\dots$}
+									\item \textbf{metabolisches Syndrom:$\dots$} (viele Stoffwechselsymptome)
 								\end{itemize}
+							\item Im Gegensatz zu IDDM auch durch orale anti-Diabetiker
 						\end{itemize}
 				\end{itemize}
 			\item \textbf{sekundärer DM}
@@ -95,48 +112,54 @@
 					\item \textbf{Typ 3}
 						\begin{itemize}
 							\item \textbf{Pankreaserkrankungen, Pankreasektomie}
-							\item \textbf{Überschuss kontrainsulinärer Hormone(Endokrinopathien)}
-							\item \textbf{passagere Glukosetoleranzstörung (Stress, Med.)}
+							\item \textbf{Überschuss kontrainsulinärer Hormone (Endokrinopathien)} (zB.: wegen Tumoren)
+							\item \textbf{passagere Glukosetoleranzstörung (Stress, Med.)} (klinischer Dauerstress, Trauma-Stress)
 						\end{itemize}
 					\item \textbf{Typ 4}
 						\begin{itemize}
-							\item \textbf{Gestationsdiabetes}
+							\item \textbf{Gestationsdiabetes} (Gestation - Schwangerschaft)
+							\item nach Ende der Schwangerschaft wieder in Ordnung, aber erhöhte Chance auf Typ2
+							\item Erhöhte Komplikationsrate vor und nach der Geburt
+							\item Druch überhöhtes Zuckerangebot gibt es "giant babies" >5k
+							\item Ungeborene produziert für Mutter Insulin, kommt aber nicht an
 						\end{itemize}
 				\end{itemize}
 		\end{itemize}
-	\subsection{Diabetes mellitus}
-	\begin{itemize}
-		\item \textbf{Symptome}
-			\begin{itemize}
-				\item \textbf{DM Typ 1}
-					\begin{itemize}
-						\item \textbf{Polyurie}
-						\item \textbf{Polydipsie}
-						\item \textbf{Gewichtsabnahme}
-						\item \textbf{Pruritus, trockene Haut, Furunkel etc.}
-						\item \textbf{Müdigkeit, Leistungsschwäche}
-						\item \textbf{Ketoazidose}
-					\end{itemize}		
-				\item \textbf{DM Typ 2}
-					\begin{itemize}
-						\item \textbf{wenig auffällig, Zufallsbefund}
-						\item \textbf{Mykosen, Pruritus, Müdigkeit}
-						\item \textbf{Diagnose-Parameter (Blut, Urin)}
-						\item \textbf{bereits vorhandene Folgeerkrankungen}
-					\end{itemize}
-			\end{itemize}
-		\item \textbf{Diagnostik}
+	\subsubsection{Symptome}
+		\begin{itemize}
+			\item \textbf{DM Typ 1}
+				\begin{itemize}
+					\item \textbf{Polyurie}
+					\item \textbf{Polydipsie}
+					\item \textbf{Gewichtsabnahme}
+					\item \textbf{Pruritus, trockene Haut, Furunkel etc.}
+					\item \textbf{Müdigkeit, Leistungsschwäche}
+					\item \textbf{Ketoazidose}
+				\end{itemize}		
+			\item \textbf{DM Typ 2}
+				\begin{itemize}
+					\item \textbf{wenig auffällig, Zufallsbefund}
+					\item \textbf{Mykosen, Pruritus, Müdigkeit}
+					\item \textbf{Diagnose-Parameter (Blut, Urin)}
+					\item \textbf{bereits vorhandene Folgeerkrankungen}
+				\end{itemize}
+		\end{itemize}
+	\pagebreak
+	\subsubsection{Diagnostik}
 			\begin{itemize}
 				\item \textbf{BZ-Bestimmung (nüchtern, postprandial)}
-				\item \textbf{OGTT}
+				\item \textbf{oGTT} (Oraler Glukosetoleranztest)
 				\item \textbf{Glucose im Urin bestimmen}
-				\item \textbf{HBA-1c = glykosiliertes Hb (= "Blutzuckergedächnis")}
+				\item \textbf{HBA-1c = glykosiliertes Hb (="Blutzuckergedächnis")}
+					\begin{itemize}
+						\item Gut für Verlaufskontrollen über Wochen
+					\end{itemize}
 			\end{itemize}
-		\item \textbf{Therapie}
+	\subsubsection{Therapie}
 			\begin{itemize}
 				\item \textbf{Typ 1}
 					\begin{itemize}
-						\item \textbf{Insulin}
+						\item \textbf{Insulin} Injektionen
 					\end{itemize}
 				\item \textbf{Typ 2}
 					\begin{itemize}
@@ -145,27 +168,45 @@
 						\item \textbf{ev. Insulin}
 					\end{itemize}
 			\end{itemize}
-		\item \textbf{Folgekomplikationen}
+	\subsubsection{Folgekomplikationen}
 			\begin{itemize}
-				\item \textbf{diabetische Mikroangiopathiediabetische Retinopathie, diabetische Nephropathie}
-				\item \textbf{unspezifische Makroangiopathiefrühe, beschleunigte arteriosklerotische Veränderungen (RisikoKHK, Hirninfarkt, pAVK, Beingangrän)}
+				\item \textbf{diabetische Mikroangiopathie: diabetische Retinopathie, diabetische Nephropathie}
+					\begin{itemize}
+						\item Retinopathie - kann bis zur Erblindung führen
+						\item Nephropathie - kann zur Dialysepflicht führen
+					\end{itemize}
+				\item \textbf{unspezifische Makroangiopathie: frühe, beschleunigte arteriosklerotische Veränderungen (RisikoKHK, Hirninfarkt, pAVK, Beingangrän)}
 				\item \textbf{Infektneigung}
 				\item \textbf{diabetische Polyneuropathie}
 				\item \textbf{diabetisches Fußsyndrom}
+					\begin{itemize}
+						\item v.a. in Beinen und Füßen
+						\item tiefe Ulcera
+						\item Fußpflege sehr wichtig bei fortgeschrittenem DM
+						\item bis zur Amputation
+					\end{itemize}
 				\item \textbf{Fettleber}
-				\item \textbf{AkutkomplikationenHypoglykämie, Hyperglykämie, diabetisches Koma (ketoazidotisch, hyperosmolar)}
+				\item \textbf{Akutkomplikationen}
+					\begin{itemize}
+						\item \textbf{Hypoglykämie} (Unterzuckerung)
+						\item \textbf{Hyperglykämie} (Überzuckerung)
+						\item \textbf{diabetisches Koma} (durch Blutzuckerentgleisung)
+						\item \textbf{ketoazidotisch, hyperosmolar)}
+					\end{itemize}
 			\end{itemize}
-	\end{itemize}
+			
 \subsection{Gicht = Arthritis urica}
 	\begin{itemize}
 		\item \textbf{Störung des Purin- und Harnsäurestoffwechsels}
 			\begin{itemize}
 				\item \textbf{Purine (Adenin und Guanin): Bestandteile der Nuleinsäuren RNA und DNA}
 				\item \textbf{Harnsäure = physiologisches Endprodukt des Purinabbaues, zu 90\% über Nieren ausgeschieden}
+				\item auch durch Nahrung aufgenommen
+				\item meist Männer
 			\end{itemize}
 		\item \textbf{Folgen}
 			\begin{itemize}
-				\item \textbf{Hyperurikämie (erhöhter Harnsäurespiegel im Blut)}
+				\item \textbf{Hyperurikämie (erhöhter Harnsäurespiegel im Blut)} (Harnsäure $\neq$ Harnstoff)
 				\item \textbf{Ablagerung von Uratkristallen in Gelenken, gelenknahen Weichteilen (z.B. Sehnenscheiden), Knorpel (z.B. Ohrmuschel) und Niere}
 			\end{itemize}
 		\item \textbf{Einteilung}
@@ -181,12 +222,15 @@
 						\item \textbf{akuter Gichtanfall = Arthritis urica}
 							\begin{itemize}
 								\item \textbf{exogene Auslöser (purinreiche Kost, Alkohol, etc.)}
-								\item \textbf{Podagra, Gonagra, Chiragra, Omagra}
+								\item \textbf{Podagra} (Großzehengrundgelenk)
+								\item \textbf{Gonagra} (Kniegelenk)
+								\item \textbf{Chiragra} (Hände)
+								\item \textbf{Omagra} Schultergelenkt
 							\end{itemize}
 						\item \textbf{beschwerdefreie Intervalle}
 						\item \textbf{chronische Gicht}
 							\begin{itemize}
-								\item \textbf{extraartikuläre Uratablagerungen = Gichttophi an Prädilektionsstellen, Gelenkdeformierungen, Gichtnephropathie}
+								\item \textbf{extraartikuläre Uratablagerungen = Gichttophi an Prädilektionsstellen} (zB.:Ohr)\textbf{, Gelenkdeformierungen, Gichtnephropathie} (Nierenerkrankung)
 							\end{itemize}
 					\end{itemize}								
 			\end{itemize}
@@ -204,10 +248,13 @@
 							\end{itemize}
 						\item \textbf{Nebenwirkung von Medikamenten}
 					\end{itemize}
+				\item Nebenwirkung von Tumorbehandlung
 			\end{itemize}
 	\end{itemize}
+	
 \subsection{Mukoviszidose = zystische Fibrose}
 	\begin{itemize}
+		\item (lat, mucus - Schleim, viscidus - klebrig) 
 		\item \textbf{autosomal rezessiv vererbte Stoffwechselstörung}
 			\begin{itemize}
 				\item \textbf{Defekt am Chromosom 7}
@@ -217,10 +264,17 @@
 			\begin{itemize}
 				\item \textbf{Lungen: chronische Bronchitiden, Pneumonien}
 				\item \textbf{Pankreas: Pankreasinsuffizienz (Untergewicht, Kleinwuchs, Fettstühle)}
+					\begin{itemize}
+						\item Es fehlt an spaltenden Verdauungsenzymen
+						\item Nahrung kann nicht so weit aufgespalten werden, dass sie absorbiert wird
+						\item ähnlich mit Fett
+					\end{itemize}
 				\item \textbf{Schweißdrüsen: stark salziger Schweiß}
 				\item \textbf{Speicheldrüsen, Gallenwege, Dünndarm, $\dots$}
+				\item Bei starker Ausprägung: sehr eingeschränkte Lebensqualität, Lungentherapie/Transplantation notwendig
 			\end{itemize}
 	\end{itemize}
+	
 \subsection{erworbene Stoffwechselerkrankungen}
 	\begin{itemize}
 		\item \textbf{Überernährung}

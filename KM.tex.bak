@@ -13,15 +13,16 @@
 \begin{document}
 \setlength{\mathindent}{2cm}% you can set it back to 0cm (the default).
 %	\include{Titelseite}
+	\setcounter{tocdepth}{1}
 	\tableofcontents
 	\include{Grundlagen}
 	\include{Tumorlehre}
 	\include{Entzuendung}
 	\include{ErkrankungenDesAtmungssystems}
 	\include{Kreislauf-UndGefaesserkrankungen}
+	\include{Stoffwechsel-Erkrankungen}
 	\include{NeurologischeErkrankungen}
 	\include{PsychatrischeErkrankungen}
-	\include{Stoffwechsel-Erkrankungen}
 	\include{Orthopaedie}
 	\include{Pharma-analgetika}
 \end{document}

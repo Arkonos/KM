@@ -1,58 +1,59 @@
-\section*{Erkrankungen des Atmungssystems}
-	\subsection{Atemwegserkrankungen}
-		\subsubsection{Lungendiagnostik}
-			\begin{itemize}
-				\item \textbf{klinische Diagnostik}
-					\begin{itemize}
-						\item \textbf{Inspektion, Anamnese, klinische Untersuchung}
-						\item \textbf{Perkussion}
-						\item \textbf{Auskulation}
-					\end{itemize}
-				\item \textbf{bildgebende Diagnostik}
-					\begin{itemize}
-						\item \textbf{Thorax-Röntgen, Durchleuchtung}
-						\item \textbf{Sonographie}
-						\item \textbf{CT, MRT}
-						\item \textbf{nuklearmedizinische Untersuchungen (Szintigraphie)}
-						\item \textbf{Kontrastmitteluntersuchungen} 
-					\end{itemize}
-				\item \textbf{Labor-Diagnostik}
-					\begin{itemize}
-						\item \textbf{Blutgasanalyse, pH-Wert}
-					\end{itemize}
-				\item \textbf{Lungenfunktionsuntersuchung}
-					\begin{itemize}
-						\item \textbf{Spirometrie}
-						\item \textbf{Peak-flow-Meter}
-						\item \textbf{Ganzkörperplethysmographie}
-					\end{itemize}
-				\item \textbf{endoskopische Untersuchungen}
-					\begin{itemize}
-						\item \textbf{Bronchoskopie}
-						\item \textbf{Mediastinoskopie}
-					\end{itemize}
-				\item \textbf{Pleurapunktion}
-			\end{itemize}
-		\subsubsection{Therapie}
-			\begin{itemize}
-				\item \textbf{Ausschalten von schädigenden Einflüssen}
-				\item \textbf{medikamentös}
-					\begin{itemize}
-						\item \textbf{Antibiotikla bei bakteriell-infektiöse Erkrankungen}
-						\item \textbf{Entzündungshemmung (Cortison-Inhalation)}
-						\item \textbf{bronchialerweiternde Med. (Bronchodilatantien), Bronchospasmolytika}
-						\item \textbf{schleimlösende Med. (Mukolytika}
-						\item \textbf{hustenreizdämpfende Med. (Antitussiva)}
-					\end{itemize}
-				\item \textbf{Sauerstoffgabe bei Mangel}
-				\item \textbf{ev. Entwässerung}
-				\item \textbf{atemstimulierende Maßnahmen}
-				\item \textbf{atemunterstützende Lagerungen}
-				\item \textbf{Lockern, Lösen und Absaugen von Sekret}
-				\item \textbf{Inhalationen}
-			\end{itemize}
-	\subsection{Erkrankungen des Atmungssystems}
-		\paragraph*{\textbf{Übersicht:}}
+\section{Erkrankungen des Atmungssystems}
+\subsection{Atemwegserkrankungen}
+	\subsubsection{Lungendiagnostik}
+		\begin{itemize}
+			\item \textbf{klinische Diagnostik}
+				\begin{itemize}
+					\item \textbf{Inspektion, Anamnese, klinische Untersuchung}
+					\item \textbf{Perkussion}
+					\item \textbf{Auskulation}
+				\end{itemize}
+			\item \textbf{bildgebende Diagnostik}
+				\begin{itemize}
+					\item \textbf{Thorax-Röntgen, Durchleuchtung}
+					\item \textbf{Sonographie}
+					\item \textbf{CT, MRT}
+					\item \textbf{nuklearmedizinische Untersuchungen (Szintigraphie)}
+					\item \textbf{Kontrastmitteluntersuchungen} 
+				\end{itemize}
+			\item \textbf{Labor-Diagnostik}
+				\begin{itemize}
+					\item \textbf{Blutgasanalyse, pH-Wert}
+				\end{itemize}
+			\item \textbf{Lungenfunktionsuntersuchung}
+				\begin{itemize}
+					\item \textbf{Spirometrie}
+					\item \textbf{Peak-flow-Meter}
+					\item \textbf{Ganzkörperplethysmographie}
+				\end{itemize}
+			\item \textbf{endoskopische Untersuchungen}
+				\begin{itemize}
+					\item \textbf{Bronchoskopie}
+					\item \textbf{Mediastinoskopie}
+				\end{itemize}
+			\item \textbf{Pleurapunktion}
+		\end{itemize}
+	\subsubsection{Therapie}
+		\begin{itemize}
+			\item \textbf{Ausschalten von schädigenden Einflüssen}
+			\item \textbf{medikamentös}
+				\begin{itemize}
+					\item \textbf{Antibiotikla bei bakteriell-infektiöse Erkrankungen}
+					\item \textbf{Entzündungshemmung (Cortison-Inhalation)}
+					\item \textbf{bronchialerweiternde Med. (Bronchodilatantien), Bronchospasmolytika}
+					\item \textbf{schleimlösende Med. (Mukolytika}
+					\item \textbf{hustenreizdämpfende Med. (Antitussiva)}
+				\end{itemize}
+			\item \textbf{Sauerstoffgabe bei Mangel}
+			\item \textbf{ev. Entwässerung}
+			\item \textbf{atemstimulierende Maßnahmen}
+			\item \textbf{atemunterstützende Lagerungen}
+			\item \textbf{Lockern, Lösen und Absaugen von Sekret}
+			\item \textbf{Inhalationen}
+		\end{itemize}
+		
+\subsection{Erkrankungen des Atmungssystems}
+	\subsubsection{Übersicht}
 		\begin{itemize}
 			\item \textbf{Bronchitis}
 				\begin{itemize}
@@ -68,250 +69,252 @@
 			\item \textbf{Lungenembolie}
 			\item \textbf{Lungenödem}
 		\end{itemize}
-		\subsubsection{akute Bronchitis}
-			\begin{itemize}
-				\item \textbf{Definition}
-					\begin{itemize}
-						\item \textbf{akute Entzündung der Schleimhaut der Atemwege}
-					\end{itemize}
-				\item \textbf{Ätiologie}
-					\begin{itemize}
-						\item \textbf{meist viral}
-					\end{itemize}
-				\item \textbf{Symptome}
-					\begin{itemize}
-						\item \textbf{Husten, lokale und ev. allg. Entzündungszeichen}
-					\end{itemize}
-				\item \textbf{Komplikationen}
-					\begin{itemize}
-						\item \textbf{Pneumonie, Übergang in chron. Bronchitis}
-					\end{itemize}
-				\item \textbf{Diagnostik}
-					\begin{itemize}
-						\item \textbf{klinischer Verlauf; ev. Erregerdiagnostik, ev. Thorax-Röntgen}
-					\end{itemize}
-				\item \textbf{Therapie}
-					\begin{itemize}
-						\item \textbf{symptomatische Th; ev. AB}
-					\end{itemize}
-			\end{itemize}
-		\subsubsection{COPD}
-			\begin{itemize}
-				\item \textbf{"chronic obstructive pulmonary disease"}
-				\item \textbf{chronische Lungenerkrankung, die mit Einengung der Atemwege einhergeht (Obstruktion):}
-					\begin{itemize}
-						\item \textbf{chronische Bronchitis}
-							\begin{itemize}
-								\item \textbf{Definition}
-									\begin{itemize}
-										\item \textbf{Husten in 2 aufeinanderfolgenden Jahren mind. 3 Monate}
-										\item \textbf{bei zusätzlicher Obstruktion = COPD}
-									\end{itemize}
-								\item \textbf{Ätiologie}
-									\begin{itemize}
-										\item \textbf{Rauchen}
-										\item \textbf{andere inhalative Belastungen}
-										\item \textbf{akute Bronchitis}
-									\end{itemize}
-								\item \textbf{Symptome}
-									\begin{itemize}
-										\item \textbf{Husten, ev. anfallsartig}
-										\item \textbf{Auswurf (bes. morgens)}
-										\item \textbf{vermehrte Schleimabsonderung}
-										\item \textbf{Umwandlung es Flimmerepithels in Plattenepithel}
-										\item \textbf{später wird die Bronchiolenwand dünner und erschlafft $\rightarrow$ bei verstärkter Ausatmung kommt es zum Kollaps des Bronchus $\rightarrow$ Lungenemphysem}
-									\end{itemize}
-							\end{itemize}
-						\item \textbf{Lungenemphysem}
-							\begin{itemize}
-								\item \textbf{Vergrößerung / Erweiterung der Bronchiolen und Alveolen, Überblähung, Elastizitätsverlust $\rightarrow$ irreversibler Zerstörung der Alveolen}
-								\item \textbf{$\rightarrow$ Vergrößerung des Totraumes und Verkleinerung der Gasaustauschfläche}
-								\item \textbf{Symptome:}
-									\begin{itemize}
-										\item \textbf{Dyspnoe, ev. Zyanose, Husten ohne Auswurf}
-										\item \textbf{ev. Bronchospasmen mit erschwerter Exspiration (Atemgeräusche!)}
-										\item \textbf{"Fassthorax"}
-									\end{itemize}
-							\end{itemize}
-					\end{itemize}
-				\item \textbf{Risikofaktoren}
-					\begin{itemize}
-						\item \textbf{Rauchen!}
-						\item \textbf{inhalative Belastungen (beruflich, Luft, Ozon, Autoabgase!)}
-						\item \textbf{rezidivierende Atemwegsinfekte}
-						\item \textbf{genetische Disposition}
-					\end{itemize}
-				\item \textbf{Komplikationen}
-					\begin{itemize}
-						\item \textbf{zunehmende Ateminsuffizienz}
-						\item \textbf{Druckerhöhung im Lungenkreislauf $\rightarrow$ Rechtsherzbelastung, Rechtsherzinsuffizienz („Cor pulmonale“)}
-						\item \textbf{Pneumonien (resistente Problemkeime!)}
-						\item \textbf{Pneumothorax (durch Platzen einer großen Emphysemblase)}
-					\end{itemize}
-			\end{itemize}
-		\subsubsection{Asthma bronchiale}
-			\begin{itemize}
-				\item \textbf{Definition}
-					\begin{itemize}
-						\item \textbf{chronische, nicht erregerbedingte Entzündung der Atemwege mit Atemwegsobstruktion}
-					\end{itemize}
-				\item \textbf{Ätiologie}
-					\begin{itemize}
-						\item \textbf{allergisch}
-						\item \textbf{nicht allergisch (Infekte, Luftverschmutzung, Kälte, Belastungen, Medikamente)}
-					\end{itemize}
-				\item \textbf{Symptome}
-					\begin{itemize}
-						\item \textbf{Atemnot (bes. Exspiration!) und Hustenattacken (bes. morgens) durch}
-							\begin{itemize}
-								\item \textbf{Bronchospasmus}
-								\item \textbf{Ödem $\rightarrow$ Schwellung}
-								\item \textbf{zähes Sekret}
-							\end{itemize}
-					\end{itemize}
-				\item \textbf{Komplikationen}
-					\begin{itemize}
-						\item \textbf{Atemwegsinfekte, Pneumonien}
-						\item \textbf{Lungenemphysem und COPD}
-						\item \textbf{"Status asthmaticus" mit Atemstillstand und/oder Rechtsherzversagen}
-						\item \textbf{Cor pulmonale}
-					\end{itemize}
-			\end{itemize}
-		\subsubsection{Pneumonie}
-			\begin{itemize}
-				\item \textbf{Definition}
-					\begin{itemize}
-						\item \textbf{Entzündungen des Lungengewebes}
-					\end{itemize}
-				\item \textbf{Einteilung}
-					\begin{itemize}
-						\item \textbf{nach Verlauf bzw. Erreger in typische / atypische Pneumonie}
-							\begin{itemize}
-								\item \textbf{typisch: akuter Beginn, hohes Fieber, Tachykardie, Husten mit Auswurf, Schmerzen beim Atmen, Dyspnoe, ev. Zyanose}
-								\item \textbf{atypisch: Symptomatik wenig ausgeprägt; oft bei zuvor gesunden, jüngeren Patienten, meist nach grippaler Vorerkrankung}
-							\end{itemize}
-						\item \textbf{nach Lokalisation in Lobärpneumonie / Bronchopneumonie}
-					\end{itemize}
-				\item \textbf{Komplikatinoen}
-					\begin{itemize}
-						\item \textbf{respiratorische Insuffizienz}
-						\item \textbf{Ausbreitung innerhalb der Lunge (Lungenabszess) und in den Pleuraspalt (Pleuritis)}
-						\item \textbf{Sepsis, Schock mit Herz-Kreislauf-Versagen}
-						\item \textbf{bei Bettruhe und Exsikkose: cave Thromboembolie!}
-					\end{itemize}
-				\item \textbf{Diagnostik}
-					\begin{itemize}
-						\item \textbf{Thoraxröntgen}
-						\item \textbf{BB}
-							\begin{itemize}
-								\item \textbf{Leukozytose mit Linksverschiebung (typisch bei bakterieller Pneumonie)}
-								\item \textbf{erhöhtes CRP und erhöhte BSG}
-								\item \textbf{BGA zur Einschätzung der Atemsituation}
-							\end{itemize}
-						\item \textbf{ev. Erregernachweis}
-					\end{itemize}
-				\item \textbf{Therapie}
-					\begin{itemize}
-						\item \textbf{symptomatisch}
-						\item \textbf{Erregerbekämpfung (AB, antiviral, antimykotisch)}
-						\item \textbf{Inhalationen, Atemgymnastik}
-						\item \textbf{ausreichende Flüssigkeitszufuhr}
-					\end{itemize}
-			\end{itemize}
-		\subsubsection{Lungenembolie}
-			\begin{itemize}
-				\item \textbf{Definition}
-					\begin{itemize}
-						\item \textbf{Verschluss einer Lungenarterie durch venösen Thrombo-Embolus}
-						\item \textbf{Folge: belüftetes, aber nicht durchblutetes Areal $\rightarrow$ Druckerhöhung $\rightarrow$ Rechtsherzbelastung}
-					\end{itemize}
-				\item \textbf{Ätiologie}
-					\begin{itemize}
-						\item \textbf{Thromben aus den tiefen Bein- und Beckenvenen}
-						\item \textbf{selten: anderes Emboliematerial (Fettembolie bei Polytrauma, Trümmerfrakturen; Luftembolie …)}
-					\end{itemize}
-				\item \textbf{Risikofaktoren (siehe Thrombose / Embolie)}
-					\begin{itemize}
-						\item \textbf{vorübergehende}
-							\begin{itemize}
-								\item \textbf{eingeschränkte Mobilität und Immobilität}
-								\item \textbf{postoperativ (cave: Hüft-oder Bein-OP!), posttraumatisch}
-								\item \textbf{Schwangerschaft, Wochenbett}
-								\item \textbf{Rauchen}
-								\item \textbf{Pille plus Rauchen}
-							\end{itemize}
-						\item \textbf{permanente Risikofaktoren}
-							\begin{itemize}
-								\item \textbf{Alter}
-								\item \textbf{maligne Erkrankungen (paraneoplastische Syndrome)}
-								\item \textbf{Übergewicht}
-							\end{itemize}
-					\end{itemize}
-				\item \textbf{Symptome}
-					\begin{itemize}
-						\item \textbf{unspezifisch und abhängig vom Schweregrad}
-							\begin{itemize}
-								\item \textbf{von symptomlos (stumm) bis akutes Rechtsherzversagen (Cor pulmonale) mit akutem Herz-Kreislauf-Stillstand}
-							\end{itemize}
-						\item \textbf{Dyspnoe (Atemnot), Tachypnoe, Tachykardie}
-						\item \textbf{Brustbeklemmung (Patient will aufrecht sitzen!), atemabhängiger Thoraxschmerz}
-						\item \textbf{Bluthusten (Hämoptysen)}
-						\item \textbf{Unruhe, Angst}
-					\end{itemize}
-				\item \textbf{Komplikationen}
-					\begin{itemize}
-						\item \textbf{akutes Cor pulmonale mit Abfall des HMV}
-						\item \textbf{Schock}
-						\item \textbf{Lungeninfarkt}
-					\end{itemize}
-				\item \textbf{Diagnostik}
-					\begin{itemize}
-						\item \textbf{EKG}
-						\item \textbf{Röntgen-Thorax}
-						\item \textbf{CT}
-						\item \textbf{Lungenszintigramm, Pulmonalisangiographie, Venensonographie}
-					\end{itemize}
-				\item \textbf{Therapie}
-					\begin{itemize}
-						\item \textbf{Lungenembolie ist ein akuter Notfall!}
-						\item \textbf{Sofortmaßnahmen}
-							\begin{itemize}
-								\item \textbf{absolute Bettruhe, Oberkörper hochlagern, Atemfunktion sichern, Schmerztherapie}
-							\end{itemize}
-						\item \textbf{medikamentös}
-							\begin{itemize}
-								\item \textbf{Blutverdünnung ("Antikoagulation")}
-								\item \textbf{Thrombus-Auflösung ("Lysetherapie")}
-							\end{itemize}
-						\item \textbf{operativ}
-							\begin{itemize}
-								\item \textbf{Entfernung des Thromboembolus ("Thrombektomie")}
-								\item \textbf{IVC Filter}
-							\end{itemize}
-					\end{itemize}
-			\end{itemize}
-		\subsubsection{Lungenödem}
-			\begin{itemize}
-				\item \textbf{Definition}
+	\subsubsection{akute Bronchitis}
+		\begin{itemize}
+			\item \textbf{Definition}
+				\begin{itemize}
+					\item \textbf{akute Entzündung der Schleimhaut der Atemwege}
+				\end{itemize}
+			\item \textbf{Ätiologie}
+				\begin{itemize}
+					\item \textbf{meist viral}
+				\end{itemize}
+			\item \textbf{Symptome}
+				\begin{itemize}
+					\item \textbf{Husten, lokale und ev. allg. Entzündungszeichen}
+				\end{itemize}
+			\item \textbf{Komplikationen}
+				\begin{itemize}
+					\item \textbf{Pneumonie, Übergang in chron. Bronchitis}
+				\end{itemize}
+			\item \textbf{Diagnostik}
+				\begin{itemize}
+					\item \textbf{klinischer Verlauf; ev. Erregerdiagnostik, ev. Thorax-Röntgen}
+				\end{itemize}
+			\item \textbf{Therapie}
+				\begin{itemize}
+					\item \textbf{symptomatische Therapie; ev. Antibiotika}
+				\end{itemize}
+		\end{itemize}
+	\subsubsection{COPD}
+		\begin{itemize}
+			\item \textbf{"chronic obstructive pulmonary disease"}
+			\item \textbf{chronische Lungenerkrankung, die mit Einengung der Atemwege einhergeht (Obstruktion)}
+				\begin{itemize}
+					\item \textbf{chronische Bronchitis}
 						\begin{itemize}
-							\item \textbf{durch starken Rückstau von Blut in den Lungenkreislauf tritt Flüssigkeit in die Alveolen über}
+							\item \textbf{Definition}
+								\begin{itemize}
+									\item \textbf{Husten in 2 aufeinanderfolgenden Jahren mind. 3 Monate}
+									\item \textbf{bei zusätzlicher Obstruktion = COPD}
+								\end{itemize}
+							\item \textbf{Ätiologie}
+								\begin{itemize}
+									\item \textbf{Rauchen}
+									\item \textbf{andere inhalative Belastungen}
+									\item \textbf{akute Bronchitis}
+								\end{itemize}
+				\pagebreak
+							\item \textbf{Symptome}
+								\begin{itemize}
+									\item \textbf{Husten, ev. anfallsartig}
+									\item \textbf{Auswurf (besonders morgens)}
+									\item \textbf{vermehrte Schleimabsonderung}
+									\item \textbf{Umwandlung des Flimmerepithels in Plattenepithel}
+									\item \textbf{später wird die Bronchiolenwand dünner und erschlafft $\rightarrow$ bei verstärkter Ausatmung kommt es zum Kollaps des Bronchus $\rightarrow$ Lungenemphysem}
+								\end{itemize}
 						\end{itemize}
-				\item \textbf{Ursache}
+					\item \textbf{Lungenemphysem}
 						\begin{itemize}
-							\item \textbf{Links-Herz-Insuffizienz ("Rückwärtsversagen")}
-							\item \textbf{Folge: Behinderung des Gasaustausches}
+							\item \textbf{Vergrößerung / Erweiterung der Bronchiolen und Alveolen, Überblähung, Elastizitätsverlust $\rightarrow$ irreversibler Zerstörung der Alveolen}
+							\item[$\rightarrow$] \textbf{Vergrößerung des Totraumes und Verkleinerung der Gasaustauschfläche}
+							\item \textbf{Symptome:}
+								\begin{itemize}
+									\item \textbf{Dyspnoe, ev. Zyanose, Husten ohne Auswurf}
+									\item \textbf{ev. Bronchospasmen mit erschwerter Exspiration (Atemgeräusche!)}
+									\item \textbf{"Fassthorax"}
+								\end{itemize}
 						\end{itemize}
-				\item \textbf{Symptome}
+				\end{itemize}
+			\item \textbf{Risikofaktoren}
+				\begin{itemize}
+					\item \textbf{Rauchen!}
+					\item \textbf{inhalative Belastungen (beruflich, Luft, Ozon, Autoabgase!)}
+					\item \textbf{rezidivierende Atemwegsinfekte}
+					\item \textbf{genetische Disposition}
+				\end{itemize}
+			\item \textbf{Komplikationen}
+				\begin{itemize}
+					\item \textbf{zunehmende Ateminsuffizienz}
+					\item \textbf{Druckerhöhung im Lungenkreislauf $\rightarrow$ Rechtsherzbelastung, Rechtsherzinsuffizienz („Cor pulmonale“)}
+					\item \textbf{Pneumonien (resistente Problemkeime!)}
+					\item \textbf{Pneumothorax (durch Platzen einer großen Emphysemblase)}
+				\end{itemize}
+		\end{itemize}
+	\subsubsection{Asthma bronchiale}
+		\begin{itemize}
+			\item \textbf{Definition}
+				\begin{itemize}
+					\item \textbf{chronische, nicht erregerbedingte Entzündung der Atemwege mit Atemwegsobstruktion}
+				\end{itemize}
+			\item \textbf{Ätiologie}
+				\begin{itemize}
+					\item \textbf{allergisch}
+					\item \textbf{nicht allergisch (Infekte, Luftverschmutzung, Kälte, Belastungen, Medikamente)}
+				\end{itemize}
+			\item \textbf{Symptome}
+				\begin{itemize}
+					\item \textbf{Atemnot (bes. Exspiration!) und Hustenattacken (bes. morgens) durch}
 						\begin{itemize}
-							\item \textbf{Dyspnoe, Zyanose, "Blubbern"}
-							\item \textbf{Husten mit schaumig / blutigem Auswurf}
-							\item \textbf{ev. Brustschmerz}
-							\item \textbf{Tachykardie}
+							\item \textbf{Bronchospasmus}
+							\item \textbf{Ödem $\rightarrow$ Schwellung}
+							\item \textbf{zähes Sekret}
 						\end{itemize}
-				\item \textbf{Therapie}
+				\end{itemize}
+			\item \textbf{Komplikationen}
+				\begin{itemize}
+					\item \textbf{Atemwegsinfekte, Pneumonien}
+					\item \textbf{Lungenemphysem und COPD}
+					\item \textbf{"Status asthmaticus" mit Atemstillstand und/oder Rechtsherzversagen}
+					\item \textbf{Cor pulmonale}
+				\end{itemize}
+		\end{itemize}
+	\subsubsection{Pneumonie}
+		\begin{itemize}
+			\item \textbf{Definition}
+				\begin{itemize}
+					\item \textbf{Entzündungen des Lungengewebes}
+				\end{itemize}
+			\item \textbf{Einteilung}
+				\begin{itemize}
+					\item \textbf{nach Verlauf bzw. Erreger in typische / atypische Pneumonie}
 						\begin{itemize}
-							\item \textbf{Lagerung, O$_2$-Gabe, Schmerz- und Herz-Medikamente}
-							\item \textbf{Entwässern}
-							\item \textbf{ev. Beatmen}
+							\item \textbf{typisch: akuter Beginn, hohes Fieber, Tachykardie, Husten mit Auswurf, Schmerzen beim Atmen, Dyspnoe, ev. Zyanose}
+							\item \textbf{atypisch: Symptomatik wenig ausgeprägt; oft bei zuvor gesunden, jüngeren Patienten, meist nach grippaler Vorerkrankung}
 						\end{itemize}
-			\end{itemize}
+					\item \textbf{nach Lokalisation in Lobärpneumonie / Bronchopneumonie}
+				\end{itemize}
+			\item \textbf{Komplikatinoen}
+				\begin{itemize}
+					\item \textbf{respiratorische Insuffizienz}
+					\item \textbf{Ausbreitung innerhalb der Lunge (Lungenabszess) und in den Pleuraspalt (Pleuritis)}
+					\item \textbf{Sepsis, Schock mit Herz-Kreislauf-Versagen}
+					\item \textbf{bei Bettruhe und Exsikkose: cave Thromboembolie!}
+				\end{itemize}
+			\item \textbf{Diagnostik}
+				\begin{itemize}
+					\item \textbf{Thoraxröntgen}
+					\item \textbf{Blutbild}
+						\begin{itemize}
+							\item \textbf{Leukozytose mit Linksverschiebung (typisch bei bakterieller Pneumonie)}
+							\item \textbf{erhöhtes CRP und erhöhte BSG}
+							\item \textbf{BGA zur Einschätzung der Atemsituation}
+						\end{itemize}
+					\item \textbf{ev. Erregernachweis}
+				\end{itemize}
+			\item \textbf{Therapie}
+				\begin{itemize}
+					\item \textbf{symptomatisch}
+					\item \textbf{Erregerbekämpfung (Antibiotika, antiviral, antimykotisch)}
+					\item \textbf{Inhalationen, Atemgymnastik}
+					\item \textbf{ausreichende Flüssigkeitszufuhr}
+				\end{itemize}
+		\end{itemize}
+	\subsubsection{Lungenembolie}
+		\begin{itemize}
+			\item \textbf{Definition}
+				\begin{itemize}
+					\item \textbf{Verschluss einer Lungenarterie durch venösen Thrombo-Embolus}
+					\item \textbf{Folge: belüftetes, aber nicht durchblutetes Areal $\rightarrow$ Druckerhöhung $\rightarrow$ Rechtsherzbelastung}
+				\end{itemize}
+			\item \textbf{Ätiologie}
+				\begin{itemize}
+					\item \textbf{Thromben aus den tiefen Bein- und Beckenvenen}
+					\item \textbf{selten: anderes Emboliematerial (Fettembolie bei Polytrauma, Trümmerfrakturen; Luftembolie …)}
+				\end{itemize}
+			\item \textbf{Risikofaktoren (siehe Thrombose / Embolie)}
+				\begin{itemize}
+					\item \textbf{vorübergehende}
+						\begin{itemize}
+							\item \textbf{eingeschränkte Mobilität und Immobilität}
+							\item \textbf{postoperativ (cave: Hüft-oder Bein-OP!), posttraumatisch}
+							\item \textbf{Schwangerschaft, Wochenbett}
+							\item \textbf{Rauchen}
+							\item \textbf{Pille plus Rauchen}
+						\end{itemize}
+			\pagebreak
+					\item \textbf{permanente Risikofaktoren}
+						\begin{itemize}
+							\item \textbf{Alter}
+							\item \textbf{maligne Erkrankungen (paraneoplastische Syndrome)}
+							\item \textbf{Übergewicht}
+						\end{itemize}
+				\end{itemize}
+			\item \textbf{Symptome}
+				\begin{itemize}
+					\item \textbf{unspezifisch und abhängig vom Schweregrad}
+						\begin{itemize}
+							\item \textbf{von symptomlos (stumm) bis akutes Rechtsherzversagen (Cor pulmonale) mit akutem Herz-Kreislauf-Stillstand}
+						\end{itemize}
+					\item \textbf{Dyspnoe (Atemnot), Tachypnoe, Tachykardie}
+					\item \textbf{Brustbeklemmung (Patient will aufrecht sitzen!), atemabhängiger Thoraxschmerz}
+					\item \textbf{Bluthusten (Hämoptysen)}
+					\item \textbf{Unruhe, Angst}
+				\end{itemize}
+			\item \textbf{Komplikationen}
+				\begin{itemize}
+					\item \textbf{akutes Cor pulmonale mit Abfall des HMV}
+					\item \textbf{Schock}
+					\item \textbf{Lungeninfarkt}
+				\end{itemize}
+			\item \textbf{Diagnostik}
+				\begin{itemize}
+					\item \textbf{EKG}
+					\item \textbf{Röntgen-Thorax}
+					\item \textbf{CT}
+					\item \textbf{Lungenszintigramm, Pulmonalisangiographie, Venensonographie}
+				\end{itemize}
+			\item \textbf{Therapie}
+				\begin{itemize}
+					\item \textbf{Lungenembolie ist ein akuter Notfall!}
+					\item \textbf{Sofortmaßnahmen}
+						\begin{itemize}
+							\item \textbf{absolute Bettruhe, Oberkörper hochlagern, Atemfunktion sichern, Schmerztherapie}
+						\end{itemize}
+					\item \textbf{medikamentös}
+						\begin{itemize}
+							\item \textbf{Blutverdünnung ("Antikoagulation")}
+							\item \textbf{Thrombus-Auflösung ("Lysetherapie")}
+						\end{itemize}
+					\item \textbf{operativ}
+						\begin{itemize}
+							\item \textbf{Entfernung des Thromboembolus ("Thrombektomie")}
+							\item \textbf{IVC Filter}
+						\end{itemize}
+				\end{itemize}
+		\end{itemize}
+	\subsubsection{Lungenödem}
+		\begin{itemize}
+			\item \textbf{Definition}
+					\begin{itemize}
+						\item \textbf{durch starken Rückstau von Blut in den Lungenkreislauf tritt Flüssigkeit in die Alveolen über}
+					\end{itemize}
+			\item \textbf{Ursache}
+					\begin{itemize}
+						\item \textbf{Links-Herz-Insuffizienz ("Rückwärtsversagen")}
+						\item \textbf{Folge: Behinderung des Gasaustausches}
+					\end{itemize}
+			\item \textbf{Symptome}
+					\begin{itemize}
+						\item \textbf{Dyspnoe, Zyanose, "Blubbern"}
+						\item \textbf{Husten mit schaumig / blutigem Auswurf}
+						\item \textbf{ev. Brustschmerz}
+						\item \textbf{Tachykardie}
+					\end{itemize}
+			\item \textbf{Therapie}
+					\begin{itemize}
+						\item \textbf{Lagerung, O$_2$-Gabe, Schmerz- und Herz-Medikamente}
+						\item \textbf{Entwässern}
+						\item \textbf{ev. Beatmen}
+					\end{itemize}
+		\end{itemize}
