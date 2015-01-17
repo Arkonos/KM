@@ -70,16 +70,16 @@
 			\begin{itemize}
 				\item Mortalität sehr gering, Letalität extrem hoch
 			\end{itemize}
-		\item \textbf{Inzidenz (= Erkrankungshäufigkeit)} (Inzidere, lat - Neubeginn)
+		\item \textbf{Inzidenz (Erkrankungshäufigkeit)} (Inzidere, lat - Neubeginn)
 			\begin{itemize}
 				\item \textbf{Zahl von Neuerkrankungen an einer bestimmten KH innerhalb eines bestimmten Zeitraumes}
 				\item \textbf{Anzahl der Personen, die im Verlauf eines bestimmten Zeitraumes (i.d.R. 1 Jahr) an einer bestimmten Krankheit erstmals erkranken}
-				\item Nimmt das in einer bestimmten Regino zu? $\rightarrow$ der Ursache nachgehen
+				\item Nimmt das in einer bestimmten Region zu? $\rightarrow$ der Ursache nachgehen
 			\end{itemize}
 		\item \textbf{Prävalenz}
 			\begin{itemize}
 				\item \textbf{Zahl der zu einem bestimmten Zeitpunkt an einer bestimmten Krankheit leidenden Personen, bezogen auf die Gesamtbevölkerung}
-				\item Bsp: Grippeninfektion im Januar deutlich höher als im August
+				\item Bsp.: Grippeninfektion im Januar deutlich höher als im August
 			\end{itemize}
 	\end{itemize}
 
@@ -124,7 +124,7 @@
 						\item \textbf{infektiöse Erkrankungen (Erregernachweis) und deren Folgen}
 						\item \textbf{Entzündungsdiagnostik}
 						\item \textbf{Tumorzellnachweis}
-						\item \textbf{etc.}
+						\item \textbf{$\dots$}
 					\end{itemize}
 			\end{itemize}
 \pagebreak
@@ -145,19 +145,19 @@
 						\item \textbf{Immunfluoreszenz}
 						\item \textbf{Elektronenmikroskopie}
 					\end{itemize}
-		\item \textbf{Zweck / häufige Fragestellungen}
-			\begin{itemize}
-				\item \textbf{Zellbeurteilung im Gewebeverband, Tumordiagnostik, Kontrolle des chirurgischen Eingriffs (Resektionsränder), etc.}
+				\item \textbf{Zweck / häufige Fragestellungen}
+					\begin{itemize}
+						\item \textbf{Zellbeurteilung im Gewebeverband, Tumordiagnostik, Kontrolle des chirurgischen Eingriffs (Resektionsränder), etc.}
+					\end{itemize}
+				\item kleine Gewebsentnahme - Biopsi (Probexcision - PE)
+				\item große Entfernungen - Operation (Resektion)
+				\item[1.] Biopsie
+				\item[2.] Pathologische Aufbearbeitung - Aufschneiden in feinste, dünnste Schnitte 
+				\item[] (für rasche Diagnose: Rohrpost - bsp. während einer Tumoroperation. Wo endet der Tumor, wo beginnt gesundes Gewebe, anschließendes Warten auf die Rückmeldung 
 			\end{itemize}
-		\item kleine Gewebsentnahme - Biopsi (Probexcision - PE)
-		\item große Entfernungen - Operation (Resektion)
-		\item[1.] Biopsie
-		\item[2.] Pathologische Aufbearbeitung - Aufschneiden in feinste, dünnste Schnitte 
-		\item[] (für rasche Diagnose: Rohrpost - bsp. während einer Tumoroperation. Wo endet der Tumor, wo beginnt gesundes Gewebe, anschließendes Warten auf die Rückmeldung 
-		\end{itemize}
-		\begin{center}
-			\includegraphics[scale=0.7]{{klin.med.-grundlagen-img0000}.png}
-		\end{center}
+			\begin{center}
+				\includegraphics[scale=0.7]{{klin.med.-grundlagen-img0000}.png}
+			\end{center}
 \pagebreak
 		\item \textbf{bakteriologische und serologische Diagnostik}
 			\begin{itemize}
