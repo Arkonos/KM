@@ -72,7 +72,7 @@
 			\end{itemize}
 		\item \textbf{Inzidenz (Erkrankungshäufigkeit)} (Inzidere, lat - Neubeginn)
 			\begin{itemize}
-				\item \textbf{Zahl von Neuerkrankungen an einer bestimmten KH innerhalb eines bestimmten Zeitraumes}
+				\item \textbf{Zahl von Neuerkrankungen an einer bestimmten Krankheit innerhalb eines bestimmten Zeitraumes}
 				\item \textbf{Anzahl der Personen, die im Verlauf eines bestimmten Zeitraumes (i.d.R. 1 Jahr) an einer bestimmten Krankheit erstmals erkranken}
 				\item Nimmt das in einer bestimmten Region zu? $\rightarrow$ der Ursache nachgehen
 			\end{itemize}
@@ -147,7 +147,10 @@
 					\end{itemize}
 				\item \textbf{Zweck / häufige Fragestellungen}
 					\begin{itemize}
-						\item \textbf{Zellbeurteilung im Gewebeverband, Tumordiagnostik, Kontrolle des chirurgischen Eingriffs (Resektionsränder), etc.}
+						\item \textbf{Zellbeurteilung im Gewebeverband}
+						\item \textbf{Tumordiagnostik}
+						\item \textbf{Kontrolle des chirurgischen Eingriffs (Resektionsränder)}
+						\item \textbf{$\dots$}
 					\end{itemize}
 				\item kleine Gewebsentnahme - Biopsi (Probexcision - PE)
 				\item große Entfernungen - Operation (Resektion)
@@ -292,10 +295,12 @@
 			\end{itemize}
 \pagebreak
 		\item \textbf{äußere (exogene) Krankheitsursachen}
-		\item \textbf{Noxen} (lat, schädigende Einwirkung)
 			\begin{itemize}
-				\item \textbf{eine Noxe ist eine Substanz oder ein Ereignis, das einem biologischen Organismus Schäden zufügt}
-				\item \textbf{im weiteren Sinn versteht man unter einer "Noxe" jede Art von äußerer Krankheitsursache}
+				\item \textbf{Noxen} (lat, schädigende Einwirkung)
+					\begin{itemize}
+						\item \textbf{eine Noxe ist eine Substanz oder ein Ereignis, das einem biologischen Organismus Schäden zufügt}
+						\item \textbf{im weiteren Sinn versteht man unter einer "Noxe" jede Art von äußerer Krankheitsursache}
+					\end{itemize}
 			\end{itemize}
 	\end{itemize}
 \paragraph{Krankheitsursachen - Noxen}
@@ -304,20 +309,22 @@
 			\begin{itemize}
 				\item \textbf{mechanische Einwirkung}
 					\begin{itemize}
-						\item \textbf{akut: Trauma (Quetschung, Schnitt, Druck: Barotrauma, …..)}
+						\item \textbf{akut: Trauma (Quetschung, Schnitt, Druck: Barotrauma, $\dots$)}
 						\item \textbf{chronisch: Dekubitus}
 							\begin{itemize}
-								\item Auch Druck - reine Schwerkraftswirkung: zB. Wundlegen bei Patienten
+								\item Auch Druck - reine Schwerkraftswirkung: zB.: Wundlegen bei Patienten
 							\end{itemize}
 						\item Schleudertrauma - Zerrung von Muskeln und Bändern im Halsbereich
 					\end{itemize}
 				\item \textbf{thermische Einwirkung}
 					\begin{itemize}
-						\item \textbf{Verbrennungen, Erfrierungen}
+						\item \textbf{Verbrennungen}
+						\item \textbf{Erfrierungen}
 					\end{itemize}
 				\item \textbf{Luftdruckveränderungen}
 					\begin{itemize}
-						\item \textbf{Höhenkrankheit, Dekompressionssyndrom}
+						\item \textbf{Höhenkrankheit}
+						\item \textbf{Dekompressionssyndrom}
 						\item Blut: 3 verschiedene Substanzen
 						\item Erythrozyten (Roter Blutfarbstoff - Hämoglobin am Eisen - O$_2$) - Mangel = Anemie $\rightarrow$ Müdigkeit, Depressionen
 						\item Bei Höhenkrankheit: Hyperventilation, Tachicardie
@@ -325,13 +332,14 @@
 					\end{itemize}
 				\item \textbf{Stromeinwirkung}
 					\begin{itemize}
-						\item \textbf{Verbrennung,\begin{itemize}
-										\item a
-									\end{itemize} Herzrhythmusstörung, Atemlähmung}
+						\item \textbf{Verbrennung}
+						\item \textbf{Herzrhythmusstörung}
+						\item \textbf{Atemlähmung}
 					\end{itemize}
 				\item \textbf{Strahleneinwirkung}
 					\begin{itemize}
-						\item \textbf{UV-Strahlen} (Sonnenbrand)\textbf{, ionisierende Strahlung}
+						\item \textbf{UV-Strahlen} (Sonnenbrand)
+						\item \textbf{ionisierende Strahlung}
 					\end{itemize}
 			\end{itemize}
 		\item \textbf{biologische Noxen}
@@ -345,7 +353,7 @@
 				\item \textbf{anorganische Verbindungen: Metalle, Staube, Gase}
 				\item \textbf{organische Verbindungen: Alkohol, aromatische Amine, $\dots$}
 			\end{itemize}
-		\item \textbf{fehlerhafte Nahrungszufuhr und/oder – Verwertung}
+		\item \textbf{fehlerhafte Nahrungszufuhr und/oder –verwertung}
 			\begin{itemize}
 				\item \textbf{Menge, Zusammensetzung, Aufnahme, $\dots$} (Anorexie)
 			\end{itemize}
