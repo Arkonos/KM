@@ -20,8 +20,8 @@
 	\include{Entzuendung}
 	\include{Kreislauf-UndGefaesserkrankungen}
 	\include{Stoffwechsel-Erkrankungen}
-	\include{NeurologischeErkrankungen}
 	\include{ErkrankungenDesAtmungssystems}
+	\include{NeurologischeErkrankungen}
 	\include{Orthopaedie}
 	\include{Pharma-analgetika}
 	\include{PsychatrischeErkrankungen}

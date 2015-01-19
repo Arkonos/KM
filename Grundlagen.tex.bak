@@ -717,7 +717,7 @@
 \subsubsection{quantitative Wachstumsstörungen}
 	\begin{itemize}
 		\item meist reversibel
-		\item \textbf{Atrophie = Verminderung des Zellwachstums} (Atropie - Rückbildung
+		\item \textbf{Atrophie = Verminderung des Zellwachstums} (Atropie - Rückbildung)
 			\begin{itemize}
 				\item \textbf{Verkleinerung eines primär normal entwickelten und normal großen Gewebes bzw. Organs}
 				\item \textbf{Überwiegen der katabolen über die anabolen Stoffwechselvorgänge}
@@ -736,10 +736,13 @@
 				\item \textbf{pathologische Atrophie}
 					\begin{itemize}
 						\item \textbf{im Rahmen krankhafter Ereignisse, Überwiegen der katabolen Prozesse}
+						\item lokale Atrophien
+						\item generalisierte Atrphien
 					\end{itemize}
 			\end{itemize}
 %\pagebreak
-		\item \textbf{lokale Atrophien}
+	%	$\item \textbf{lokale Atrophien}
+		\paragraph{lokale Atrophien}
 			\begin{itemize}
 				\item \textbf{auf ein Organ oder einen Gewebsabschnitt beschränkt}
 					\begin{itemize}
@@ -764,7 +767,9 @@
 							\end{itemize}
 						\item \textbf{genetisch bedingte Atrophie}
 					\end{itemize}
-				\item \textbf{generalisierte Atrophien}
+				\end{itemize}
+				%\item \textbf{generalisierte Atrophien}
+			\paragraph{generalisierte Atrophien}
 					\begin{itemize}
 						\item \textbf{den gesamten Körper betreffend}
 							\begin{itemize}
@@ -773,7 +778,6 @@
 								\item \textbf{Kachexie}, Atrophie des gesamten Körpers, beispielsweise durch schwere Erkrankung, fortgeschrittene Tuberkulose
 							\end{itemize}
 				\end{itemize}
-			\end{itemize}
 		\item \textbf{angeborene Störungen mit Hemmung des Wachstums}
 			\begin{itemize}
 				\item \textbf{Agenesie: gesamte Organanlage fehlt}
@@ -809,7 +813,7 @@
 							\begin{itemize}
 								\item Prostatahyperplasie - relative Vermehrung der weiblichen Geschlechtshormone - Außenteile der Prostata hyperplasierend $\rightarrow$ Probleme in der Harnentleerung (Einengung der Harnröhre)
 							\end{itemize}
-						\item \textbf{z.B. Hyperplasie der Prostata, Hyperplasie der Schilddrüse}
+						\item \textbf{zB.: Hyperplasie der Prostata, Hyperplasie der Schilddrüse}
 						\item Hyperplasie der Schilddrüse - Kropf bei Jodmangel 
 					\end{itemize}
 			\end{itemize}
