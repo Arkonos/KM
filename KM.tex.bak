@@ -19,8 +19,8 @@
 	\include{Tumorlehre}
 	\include{Entzuendung}
 	\include{Kreislauf-UndGefaesserkrankungen}
-	\include{Stoffwechsel-Erkrankungen}
 	\include{ErkrankungenDesAtmungssystems}
+	\include{Stoffwechsel-Erkrankungen}
 	\include{NeurologischeErkrankungen}
 	\include{Orthopaedie}
 	\include{Pharma-analgetika}
